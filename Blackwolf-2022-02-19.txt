@@ -1,0 +1,554 @@
+Logfile from Liberation (Blackwolf)
+Log opened 19/02/2022  -  20:48:07
+
+Connecting to game.liberationmush.site:2020...
+Connected - 34.213.143.253 (ec2-34-213-143-253.us-west-2.compute.amazonaws.com) - 19/02/2022  -  20:48:05
+
+
+   __                      _.++._     _.+"+.                      _.++._
+.+"  `"._      _.+```+._.+'      `'.+'      '.     .+"".+```+._.+'      `'.+'
+         `+._.'      _____ .____              '+.+'
+            .____   +  ___++  _ \      ___   .______.               .__   __.
+        __  +  _ \  | +_   | +_) +    /   \  +      + __    _____   +  \ +  +
+ _     +  + | +_) + |  _+  |    /    /  ^  \ `++  ++`+  +  /  _  \  |   \+  |
++ +    |  | |  _ <  | +___ | +\ \   /  /_\  \  |  |  |  | +  + +  + |  . `  |
+| |    |  | | +_) + +_____++_+ \_\ /  _____  \ |  |  |  | |  + +  | |  +\   |
+| +    |  | +____/                /__/     \__\+__+  |  | +  `+'  + +__+ \__+
+| `+-+.+__+                                          +__+  \_____/
++_____+
+              Liberation MUSH: A World of Darkness 20th Anniversary
+                      Edition-based Role Playing Environment
+                     Set in Modern-Day Los Angeles California
+
+    To create new character     ----------=>   create <player> <password>  
+
+                PLEASE PUT NAMES WITH SPACES IN THEM  IN QUOTES!
+
+    To continue old character   ----------=>   connect <player> <password> 
+
+
+    Portions of the materials are the copyrights and trademarks of Paradox
+    Interactive AB, and are used with permission. All rights reserved.
+    For more information please visit worldofdarkness.com. This is not an
+    official World Of Darkness game.
+Last connect was from 79.97.158.201 on Tue Feb 15 05:48:29 2022.
+ ================= Tenebrous Crossroad - Black Path of Balor =================
+
+                               --Dreaming Desc--                              
+                             ==The Near Dreaming==                            
+                            ==Black Path of Balor==                           
+
+        The road to the North pitres off, as yet unrestored by the outporing  
+of Fomorian Glamour from the Evanescence. But the roads to the east and south 
+have coalesced and are safely walked, for a given value of safe.              
+        Dark Kin and Thallain frequently avail of the crossroad as a trading  
+locale, undeterred by lack of Trod they frequently bring things from beyond   
+the Trod network to within the reach of those Kithain willing to deal with    
+them and the Black Path.                                                      
+        A stall with questionable goods stands, seemingly unattended, with a  
+jar on the customer side where the owner clearly expects people to leave      
+their payments. A sign hangs to one side with the prices for goods that would 
+cause even the staunchest shadow courtier to pale.                            
+
+ ---------------------------------- Players ----------------------------------
+ Blackwolf           0s    A satyr with black fur and hair.                   
+ -------------------------------- Directions ---------------------------------
+ Silhouette Forest <E>                 The Shadow of Point Vincente <S>     
+ =============================================================================
+ /~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\ 
+((                                                                         ))
+ ))                   *** RhostMUSH Disconnected. ***                     ((
+((                                                                         ))
+ \_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/
+  ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~  
+Logfile from Liberation (Blackwolf)
+Log opened 19/02/2022  -  20:48:28
+
+Connecting to game.liberationmush.site:2020...
+Connected - 34.213.143.253 (ec2-34-213-143-253.us-west-2.compute.amazonaws.com) - 19/02/2022  -  20:48:26
+
+
+   __                      _.++._     _.+"+.                      _.++._
+.+"  `"._      _.+```+._.+'      `'.+'      '.     .+"".+```+._.+'      `'.+'
+         `+._.'      _____ .____              '+.+'
+            .____   +  ___++  _ \      ___   .______.               .__   __.
+        __  +  _ \  | +_   | +_) +    /   \  +      + __    _____   +  \ +  +
+ _     +  + | +_) + |  _+  |    /    /  ^  \ `++  ++`+  +  /  _  \  |   \+  |
++ +    |  | |  _ <  | +___ | +\ \   /  /_\  \  |  |  |  | +  + +  + |  . `  |
+| |    |  | | +_) + +_____++_+ \_\ /  _____  \ |  |  |  | |  + +  | |  +\   |
+| +    |  | +____/                /__/     \__\+__+  |  | +  `+'  + +__+ \__+
+| `+-+.+__+                                          +__+  \_____/
++_____+
+              Liberation MUSH: A World of Darkness 20th Anniversary
+                      Edition-based Role Playing Environment
+                     Set in Modern-Day Los Angeles California
+
+    To create new character     ----------=>   create <player> <password>  
+
+                PLEASE PUT NAMES WITH SPACES IN THEM  IN QUOTES!
+
+    To continue old character   ----------=>   connect <player> <password> 
+
+
+    Portions of the materials are the copyrights and trademarks of Paradox
+    Interactive AB, and are used with permission. All rights reserved.
+    For more information please visit worldofdarkness.com. This is not an
+    official World Of Darkness game.
+Last connect was from 79.97.158.201 on Sat Feb 19 12:48:09 2022.
+ ================= Tenebrous Crossroad - Black Path of Balor =================
+
+                               --Dreaming Desc--                              
+                             ==The Near Dreaming==                            
+                            ==Black Path of Balor==                           
+
+        The road to the North pitres off, as yet unrestored by the outporing  
+of Fomorian Glamour from the Evanescence. But the roads to the east and south 
+have coalesced and are safely walked, for a given value of safe.              
+        Dark Kin and Thallain frequently avail of the crossroad as a trading  
+locale, undeterred by lack of Trod they frequently bring things from beyond   
+the Trod network to within the reach of those Kithain willing to deal with    
+them and the Black Path.                                                      
+        A stall with questionable goods stands, seemingly unattended, with a  
+jar on the customer side where the owner clearly expects people to leave      
+their payments. A sign hangs to one side with the prices for goods that would 
+cause even the staunchest shadow courtier to pale.                            
+
+ ---------------------------------- Players ----------------------------------
+ Blackwolf           0s    A satyr with black fur and hair.                   
+ -------------------------------- Directions ---------------------------------
+ Silhouette Forest <E>                 The Shadow of Point Vincente <S>     
+ =============================================================================
+You exit towards Silhouette Forest.
+ ================== Silhouette Forest - Black Path of Balor ==================
+
+                               --Dreaming Desc--                              
+                             ==The Near Dreaming==                            
+                            ==Black Path of Balor==                           
+
+        The trees here are two dimensional outlines of the deepest black cast 
+upon a backdrop of grey. Leaving the trod, a precarious decision even on the  
+Silver Path let alone amongst the Paths of Balor, sees the projected shadows  
+of the trees stretch and distort as they move away from you. With no frame of 
+reference for direction other than the road itself, made of charcoal bricks,  
+north and south are the only true touchstones.                                
+        Those chimera that can be seen here, dashing between the two          
+dimensional shadows, are equally as distorted and removed from the Autumn     
+World. Long-limbed children's monsters brought to life tend to flee here from 
+the dreaming where they form droves of predatory beasts.                      
+
+ ---------------------------------- Players ----------------------------------
+ Blackwolf           0s    A satyr with black fur and hair.                   
+ --------------------------------- Locations ---------------------------------
+ Club Eden <CE>                       
+ -------------------------------- Directions ---------------------------------
+ Raging Forest Fire <RFF>              Tenebrous Crossroad <W>              
+ =============================================================================
+> Command not found (Type "+help" and "help" for game command help.)
+You exit towards Tenebrous Crossroad.
+ ================= Tenebrous Crossroad - Black Path of Balor =================
+
+                               --Dreaming Desc--                              
+                             ==The Near Dreaming==                            
+                            ==Black Path of Balor==                           
+
+        The road to the North pitres off, as yet unrestored by the outporing  
+of Fomorian Glamour from the Evanescence. But the roads to the east and south 
+have coalesced and are safely walked, for a given value of safe.              
+        Dark Kin and Thallain frequently avail of the crossroad as a trading  
+locale, undeterred by lack of Trod they frequently bring things from beyond   
+the Trod network to within the reach of those Kithain willing to deal with    
+them and the Black Path.                                                      
+        A stall with questionable goods stands, seemingly unattended, with a  
+jar on the customer side where the owner clearly expects people to leave      
+their payments. A sign hangs to one side with the prices for goods that would 
+cause even the staunchest shadow courtier to pale.                            
+
+ ---------------------------------- Players ----------------------------------
+ Blackwolf           0s    A satyr with black fur and hair.                   
+ -------------------------------- Directions ---------------------------------
+ Silhouette Forest <E>                 The Shadow of Point Vincente <S>     
+ =============================================================================
+You exit towards Black Path of Balor.
+ ================= Black Path of Balor - Black Path of Balor =================
+
+                               --Dreaming Desc--                              
+                             ==The Near Dreaming==                            
+                            ==Black Path of Balor==                           
+
+        The Dreaming, here, takes on a darker tint. Something Old and Primal  
+once stalked these paths and the Chimera that can be found here reflect that, 
+just this side of Noctnissa and Nervosa, they will harry and predate on       
+anything weaker than they are or, in enough numbers, anything that just       
+happens by. The road itself is comprised of black basalt pillars at the side  
+and slabs of something darker still, Obsidian perhaps, reflecting a twisted   
+version of whatever walks on it. Dark, angry, storm clouds hang in the sky    
+and threaten storm at every step of the way.                                  
+
+ ---------------------------------- Players ----------------------------------
+ Blackwolf           0s    A satyr with black fur and hair.                   
+ --------------------------------- Locations ---------------------------------
+ Point Vincente Freehold <PVF>        
+ -------------------------------- Directions ---------------------------------
+ Tenebrous Crossroad <N>              
+ =================================================================[ +view ]===
+You exit towards Tenebrous Crossroad.
+ ================= Tenebrous Crossroad - Black Path of Balor =================
+
+                               --Dreaming Desc--                              
+                             ==The Near Dreaming==                            
+                            ==Black Path of Balor==                           
+
+        The road to the North pitres off, as yet unrestored by the outporing  
+of Fomorian Glamour from the Evanescence. But the roads to the east and south 
+have coalesced and are safely walked, for a given value of safe.              
+        Dark Kin and Thallain frequently avail of the crossroad as a trading  
+locale, undeterred by lack of Trod they frequently bring things from beyond   
+the Trod network to within the reach of those Kithain willing to deal with    
+them and the Black Path.                                                      
+        A stall with questionable goods stands, seemingly unattended, with a  
+jar on the customer side where the owner clearly expects people to leave      
+their payments. A sign hangs to one side with the prices for goods that would 
+cause even the staunchest shadow courtier to pale.                            
+
+ ---------------------------------- Players ----------------------------------
+ Blackwolf           0s    A satyr with black fur and hair.                   
+ -------------------------------- Directions ---------------------------------
+ Silhouette Forest <E>                 The Shadow of Point Vincente <S>     
+ =============================================================================
+You exit towards Shadow Court Chamber.
+ ================ Shadow Court Chamber - Black Path of Balor =================
+
+                               --Dreaming Desc--                              
+                             ==The Near Dreaming==                            
+                            ==Black Path of Balor==                           
+
+        The Shadow Court Council Chamber is a wide amphitheatre overlooked by 
+three increasingly raised concentric circles of chairs. The disc at the       
+centre is pitch black, constructed of a substance so dark that vantablack     
+pales in comparison. Around the disc there is a circle of golden glyphs;      
+words of power designed solely to hide the chamber from prying eyes.          
+        Against the round wall of the room, there is a series of doors, each  
+leading to different freeholds accross the California, and upon entering each 
+person is automatically wrapped in a Cantrip that masks their true identity,  
+each member of each cell known only to the others in their cell; secrecy      
+shrouds everything here.                                                      
+
+ ---------------------------------- Players ----------------------------------
+ Blackwolf           0s    A satyr with black fur and hair.                   
+ --------------------------------- Locations ---------------------------------
+ Exit <OUT>                           
+ =============================================================================
+Leith has arrived.
+Set.
+Set.
+ ================ Shadow Court Chamber - Black Path of Balor =================
+
+                               --Dreaming Desc--                              
+                             ==The Near Dreaming==                            
+                            ==Black Path of Balor==                           
+
+        The Shadow Court Council Chamber is a wide amphitheatre overlooked by 
+three increasingly raised concentric circles of chairs. The disc at the       
+centre is pitch black, constructed of a substance so dark that vantablack     
+pales in comparison. Around the disc there is a circle of golden glyphs;      
+words of power designed solely to hide the chamber from prying eyes.          
+        Against the round wall of the room, there is a series of doors, each  
+leading to different freeholds accross the California, and upon entering each 
+person is automatically wrapped in a Cantrip that masks their true identity,  
+each member of each cell known only to the others in their cell; secrecy      
+shrouds everything here.                                                      
+
+ ---------------------------------- Players ----------------------------------
+ Leith               11s   Eyes to drown in, tumult of curls, dancer's bod.   
+ Blackwolf           0s    A satyr with black fur and hair.                   
+ --------------------------------- Locations ---------------------------------
+ Exit <OUT>                           
+ =============================================================================
+---<Blackwolf>---------------
+Blackwolf tests
+-----------------------------
+Set.
+Set.
+Set.
+ ================ Shadow Court Chamber - Black Path of Balor =================
+
+                               --Dreaming Desc--                              
+                             ==The Near Dreaming==                            
+                            ==Black Path of Balor==                           
+
+        The Shadow Court Council Chamber is a wide amphitheatre overlooked by 
+three increasingly raised concentric circles of chairs. The disc at the       
+centre is pitch black, constructed of a substance so dark that vantablack     
+pales in comparison. Around the disc there is a circle of golden glyphs;      
+words of power designed solely to hide the chamber from prying eyes.          
+        Against the round wall of the room, there is a series of doors, each  
+leading to different freeholds accross the California, and upon entering each 
+person is automatically wrapped in a Cantrip that masks their true identity,  
+each member of each cell known only to the others in their cell; secrecy      
+shrouds everything here.                                                      
+
+ ---------------------------------- Players ----------------------------------
+ Leith               30s   Eyes to drown in, tumult of curls, dancer's bod.   
+ Blackwolf           0s    A satyr with black fur and hair.                   
+ --------------------------------- Locations ---------------------------------
+ Exit <OUT>                           
+ =============================================================================
+> Command not found (Type "+help" and "help" for game command help.)
+> Command not found (Type "+help" and "help" for game command help.)
+Cleared.
+---<Blackwolf>---------------
+	test
+-----------------------------
+I don't understand that flag.
+I don't understand that toggle.
+Set.
+ ════════════════ Shadow Court Chamber ‒ Black Path of Balor ═════════════════
+
+                               --Dreaming Desc--                              
+                             ==The Near Dreaming==                            
+                            ==Black Path of Balor==                           
+
+        The Shadow Court Council Chamber is a wide amphitheatre overlooked by 
+three increasingly raised concentric circles of chairs. The disc at the       
+centre is pitch black, constructed of a substance so dark that vantablack     
+pales in comparison. Around the disc there is a circle of golden glyphs;      
+words of power designed solely to hide the chamber from prying eyes.          
+        Against the round wall of the room, there is a series of doors, each  
+leading to different freeholds accross the California, and upon entering each 
+person is automatically wrapped in a Cantrip that masks their true identity,  
+each member of each cell known only to the others in their cell; secrecy      
+shrouds everything here.                                                      
+
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Players ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Leith               1m    Eyes to drown in, tumult of curls, dancer's bod.   
+ Blackwolf           0s    A satyr with black fur and hair.                   
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Locations ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Exit <OUT>                           
+ ═════════════════════════════════════════════════════════════════════════════
+> Command not found (Type "+help" and "help" for game command help.)
+───<Blackwolf>───────────────
+	test
+─────────────────────────────
+<OOC> Blackwolf says, "okay, neirly done"
+
+System Colors:
+ 00  01  02  03  04  05  06  07 
+ 08  09  0A  0B  0C  0D  0E  0F 
+
+You can use the following colors with [ansi(0x<code>,<text>)]
+An alternative is %c0x<code><text>%cn or %x0x<code><text>%xn
+
+Color Cube, 6x6x6:
+ 10  11  12  13  14  15   34  35  36  37  38  39   58  59  5A  5B  5C  5D  
+ 16  17  18  19  1A  1B   3A  3B  3C  3D  3E  3F   5E  5F  60  61  62  63  
+ 1C  1D  1E  1F  20  21   40  41  42  43  44  45   64  65  66  67  68  69  
+ 22  23  24  25  26  27   46  47  48  49  4A  4B   6A  6B  6C  6D  6E  6F  
+ 28  29  2A  2B  2C  2D   4C  4D  4E  4F  50  51   70  71  72  73  74  75  
+ 2E  2F  30  31  32  33   52  53  54  55  56  57   76  77  78  79  7A  7B  
+ 
+ 7C  7D  7E  7F  80  81   A0  A1  A2  A3  A4  A5   C4  C5  C6  C7  C8  C9  
+ 82  83  84  85  86  87   A6  A7  A8  A9  AA  AB   CA  CB  CC  CD  CE  CF  
+ 88  89  8A  8B  8C  8D   AC  AD  AE  AF  B0  B1   D0  D1  D2  D3  D4  D5  
+ 8E  8F  90  91  92  93   B2  B3  B4  B5  B6  B7   D6  D7  D8  D9  DA  DB  
+ 94  95  96  97  98  99   B8  B9  BA  BB  BC  BD   DC  DD  DE  DF  E0  E1  
+ 9A  9B  9C  9D  9E  9F   BE  BF  C0  C1  C2  C3   E2  E3  E4  E5  E6  E7  
+
+Grayscale Ramp:
+ E8  E9  EA  EB  EC  ED  EE  EF  F0  F1  F2  F3 
+ F4  F5  F6  F7  F8  F9  FA  FB  FC  FD  FE  FF 
+Set.
+> Command not found (Type "+help" and "help" for game command help.)
+───<Blackwolf>───────────────
+	test
+─────────────────────────────
+<OOC> Blackwolf says, "Can you read that?"
+<OOC> Leith says, "Yep"
++SHEET> You cannot view the +sheet of that player!
+Eochaid has connected.
+Eochaid has left.
+<OOC> Blackwolf says, "Gonna start 15 minutes after the event but I'll put up the pose on the hour"
+<OOC> Blackwolf says, "If you're the only attendee, I'll let you interact with Blackwolf, and get a headstart on the others."
+ ════════════════ Shadow Court Chamber ‒ Black Path of Balor ═════════════════
+
+                               --Dreaming Desc--                              
+                             ==The Near Dreaming==                            
+                            ==Black Path of Balor==                           
+
+        The Shadow Court Council Chamber is a wide amphitheatre overlooked by 
+three increasingly raised concentric circles of chairs. The disc at the       
+centre is pitch black, constructed of a substance so dark that vantablack     
+pales in comparison. Around the disc there is a circle of golden glyphs;      
+words of power designed solely to hide the chamber from prying eyes.          
+        Against the round wall of the room, there is a series of doors, each  
+leading to different freeholds accross the California, and upon entering each 
+person is automatically wrapped in a Cantrip that masks their true identity,  
+each member of each cell known only to the others in their cell; secrecy      
+shrouds everything here.                                                      
+
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Players ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Leith               1h    Eyes to drown in, tumult of curls, dancer's bod.   
+ Blackwolf           0s    A satyr with black fur and hair.                   
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Locations ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Exit <OUT>                           
+ ═════════════════════════════════════════════════════════════════════════════
+ ════════════════ Shadow Court Chamber ‒ Black Path of Balor ═════════════════
+
+                               --Dreaming Desc--                              
+                             ==The Near Dreaming==                            
+                            ==Black Path of Balor==                           
+
+        The Shadow Court Council Chamber is a wide amphitheatre overlooked by 
+three increasingly raised concentric circles of chairs. The disc at the       
+centre is pitch black, constructed of a substance so dark that vantablack     
+pales in comparison. Around the disc there is a circle of golden glyphs;      
+words of power designed solely to hide the chamber from prying eyes.          
+        Against the round wall of the room, there is a series of doors, each  
+leading to different freeholds accross the California, and upon entering each 
+person is automatically wrapped in a Cantrip that masks their true identity,  
+each member of each cell known only to the others in their cell; secrecy      
+shrouds everything here.                                                      
+
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Players ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Leith               1h    Eyes to drown in, tumult of curls, dancer's bod.   
+ Blackwolf           0s    A satyr with black fur and hair.                   
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Locations ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Exit <OUT>                           
+ ═════════════════════════════════════════════════════════════════════════════
+───<Blackwolf>───────────────
+	The true location, if such a thing can be said of any place off the Black Paths of Balor proper, of the West Coast Shadow Court Chamber is known only to the heads of each chapter. This is, of course, op sec 101 in a counter govenrmental organisation which, whatever else it may be, the Shadow Court explitictly is. But security by obscurity is only part of the room's arsenal. Before taking the Trod from Tenebrous Crossroads here, you were met by a figure of indeterminate kith in a plain black suit who handed you a robe and mask and told to wear them before they opened the Trod.
+	When you step through the Trod, you see that the Chamber has been laid out after a court in the legal sense, though clearly drawing on a medley of concepts. The judge's table is a slightly elevated position, on a disk of marble there is a round gavil of jet black stone. Before it a space, and at the other end two equal desks each with two chairs. The audience chamber provides the jury, each delegation being given a single vote.
+	It is, of course, impossible to tell the kith, let alone identity, of any other figure present. Everybody's face is clearly masked, some in plain white disks, some in outlandish animals, some as famous celebrities, regardless the face is always clearly an illusion. The judge steps out onto the dias, and a bailiff leads in two people in chains. He clears his throat and then, exuding a confidence that one would be forgiven for confusing with Sovereign, addresses the crowd "For the crimes of treason, collusion with the enemy, and general terminal stupidity, the two Fae before you have been found guilty," he pauses for the appropriate response from the crowd, "and it falls to you, the jury of their peers to determine the sentence. Your delegations each have one vote." He then slams the gavel against the table and awaits a bailiff to inform him that the verdict has been reached. Moments pass and the sentence, which was democratically arrived upon and therefore equally disagreeable to everyone, of imprisonment in a Nightmare realm for a year was decided upon. A door along the wall was suitably chosen and the prisoners were rudely thrown through it.
+	Each party is given time with the judge, the newly appointed leader of the branch. When it comes to Vine and Thorns, he looks over each and shrugs. "I've done things with worse," he says noncomittally, "you have a mission. Our intelligence in the area tells us that there's a Fomorian that could conceivably break out into the Autumn. We, the movement, are ambivalent about the outcome of the forked prophecy but three things are needed for the bigger plan to succeed, firstly a shard of the essence of the Fomorian be retrieved if it is destroyed, that all reasonable efforts be made to provide a meaningful life for the Thallain Changelings Sassafras and Icarus, and that the identity of the individual hunting the Thallain be uncovered."
+─────────────────────────────
+───<Leith>───────────────
+Leith's dark eyes are the only part of him visible from behind the mask, and it's that which stays focused on the fae prisoners as their crimes are discussed and sentencing is carried out. The assessment of the county's delegation receives no response. It's only the assignment to which he reacts. "'Meaningful' and 'reasonable' are words with a great deal of room for interpretation," he notes. "The other two... achievable, I think, particularly the latter. I don't think any of the Kith around here are at all the sort to hide what they consider their achievements. The Fomorian is on, or under, Catalina Island. That much I assume you already know."
+─────────────────────────
+ ══════════════════════════════════ +watch ═══════════════════════════════════
+           Name            | Idle |                   Comment                 
+
+ =============================================================================
+ ══════════════════════════════════ Rosters ══════════════════════════════════
+ #Num| Info                                                            Players
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+
+ 11  | Shadow .............................................................. 9
+     | Members of the Shadow Court                                           
+
+ ═════════════════════════════════════════════════════════════════════════════
+ ═════════════════════════════ Roster 11: Shadow ═════════════════════════════
+ Name                 | Title                                        |    Idle
+ ---------------------|----------------------------------------------|--------
+ Blackwolf            | Satyr, California Deputy Speaker             |      0s
+ Eamonn               | Sidhe (Autumn), House Balor                  | OFFLINE
+ Icarus               | Lurk                                         | OFFLINE
+ Leith                | Selkie, Ailil Knight                         |      1m
+ Mari                 | Alicanto, Dark Reputation                    | OFFLINE
+ Nasrin               | Eshu                                         | OFFLINE
+ Rashid               | Eshu                                         | OFFLINE
+ Raven                | Selkie                                       | OFFLINE
+ Sassafras            | Kelpie                                       | OFFLINE
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Hangouts ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+  67 | *The Garden - Eden ................................................. -
+     |     A Shadow Court rendezvous in an stylish, exotic club.           
+ 126 | *Tinseltown Marketplace ............................................ -
+     |     A Changeling marketplace in Silver Lake.                        
+
+ ═════════════════════════════════════════════════════════════════════════════
+───<Blackwolf>───────────────
+	Blackwolf shrugs. "The word meaningful means that you do whatever is within your personal power to do so and that you should be mindful that powers older and far more terrible than you or I are in motion across the Dreaming and that it is they to whom you will eventually have to justify whether whatever you do is meaningful. Tell that Balor in your county to do whatever it is he can, he's the high muckity muck there." The Satyr's outright contempt for the Nobility is apparent, even through the disguise, "We do indeed know where the Fomorian is, our agents were part of the successful raid on the third anchor. Thankfully not the one that was intersected by the Silver Court party."
+─────────────────────────────
+───<Leith>───────────────
+Leith glances around, and then nods succinctly. "Fair enough," he agrees. "Your letter mentioned a pair of artifacts, as well. Are those still at large, or have they fallen into the hands of the Seelie?" An exhale through his nose, as he adds, "The official word of the Escheat as lately clarified hews largely to their beliefs and policies with little concession to the Unseelie perspective. Unsurprising, I suppose, and likewise not an obstacle to anyone who is used to operating under the watchful eye of the Sidhe and their arbitrary rules, but still something we should take note of, I think, as it will further widen the divide between the Seelie and those who don't share their ideology."
+─────────────────────────
+───<Blackwolf>───────────────
+	Blackwolf shakes his head. "There are three artefacts. One is not in the hands of the Seelie, but our oracular abilities are not having much luck in finding it. The second is held almost perpetually in the person an Arcadian Sidhe of interest, though we believe her to be Unseelie not Seelie. As to the matter of Hawthorne, we are currently beyond the reach of his Domain. So I give no consideration to his ideology whatsoever. I suspect the Balorian Baron will have plans to deal with him and I would not everstep there. That is an internal matter for that cell to resolve."
+─────────────────────────────
+───<Leith>───────────────
+Sucking his teeth, Leith nods. "Maybe I can enlist the court seer of Hawthorne's in digging out that information," he surmises. "He seems to have a powerful gift. The Arcadian Sidhe - would that be Dejah? I've run across her several times now. If that's the case, my suggestion would be to send women and liquor her way. She seems susceptible to both, as well as having a touchy sense of pride. I'm not getting in Hawthorne's way. I had meant to try and ingratiate myself there, as we're of the same House, but I suspect considering he's clearly taken an unusual stance toward that House's ideology it'd be a difficult path and I'm just as pleased to let Balor deal with him. I like the Fiona better anyway."
+─────────────────────────
+───<Blackwolf>───────────────
+	Blackwolf shakes his head "The Grey Walker holds one of the anchors, manipulating a Beaumayne seer in such a way that it does not reveal you for what you are would be risky. If you think you can do it, by all means attempt it, but I would not cross their path more than I had to. And all Nobles are the oppressor, Fiona no less than Gwydion. They are members of an aristocracy that undermines individualism and personal freedom, the antithesis of liberty and I still don't know why the Dreaming tolerates let alone rewards them."#
+─────────────────────────────
+───<Leith>───────────────
+"Does it reward them?" Leith asks. His expression, if it could be seen, might be ironically amused. "Or do they simply reward themselves and perpetuate their own legacy of doling out only the amount of power they see fit to keep us all under their thumbs, and most common folk are simply too cowed and too afraid to see them for what they truly are? Parasites. Once they might have been the favored children of the Dream...but that time's over."
+─────────────────────────
+
+ ═════════════════════════════ Blackwolf's Sheet ═════════════════════════════
+ Full Name:     Blackwolf               Sphere:        Changeling            
+ Birthdate:                             Concept:       Shadow Court leader   
+ Heritage:                              Legacy:        Hermit/Beast          
+ Seeming:       Grump                   Splat:         Kithain               
+ Kith:          Satyr                   Type:          Kithain               
+ Court:         Shadow                  House:                                
+ ════════════════════════════════ Attributes ═════════════════════════════════
+        Physical         |         Social          |         Mental          
+ Strength: ........... 2 | Charisma: ........... 4 | Perception: ......... 3 
+ Dexterity: .......... 1 | Manipulation: ....... 4 | Intelligence: ....... 3 
+ Stamina: ............ 3 | Appearance: ......... 1 | Wits: ............... 3 
+ ═════════════════════════════════ Abilities ═════════════════════════════════
+         Talents         |         Skills          |       Knowledges        
+ Alertness: .......... 2 | Animal Ken: ......... 0 | Academics: .......... 0 
+ Athletics: .......... 2 | Crafts: ............. 0 | Bureaucracy: ........ 0 
+ Brawl: .............. 2 | Drive: .............. 0 | Computer: ........... 0 
+ Empathy: ............ 2 | Etiquette: .......... 2 | Enigmas: ............ 2 
+ Expression: ......... 2 | Firearms: ........... 0 | Finance: ............ 0 
+ Intimidation: ....... 0 | Larceny: ............ 0 | Gremayre: ........... 2 
+ Kenning: ............ 3 | Melee: .............. 0 | Investigation: ...... 0 
+ Leadership: ......... 3 | Performance: ........ 3 | Law: ................ 0 
+ Stealth: ............ 0 | Security: ........... 0 | Medicine: ........... 0 
+ Streetwise: ......... 0 | Survival: ........... 0 | Occult: ............. 0 
+ Subterfuge: ......... 0 | Technology: ......... 0 | Politics: ........... 0 
+                         |                         | Science: ............ 0 
+ ════════════════════════════ Secondary Abilities ════════════════════════════
+         Talents         |         Skills          |       Knowledges        
+ Artistry: ........... 0 | Acrobatics: ......... 0 | Area Knowledge: ..... 0 
+ Cooking: ............ 0 | Archery: ............ 0 | Covert Ops: ......... 3 
+ Diplomacy: .......... 0 | Demolitions: ........ 0 | Cryptography: ....... 0 
+ Fortune-Telling: .... 0 | Elusion: ............ 0 | Esoterica: .......... 0 
+ Instruction: ........ 0 | Fencing: ............ 0 | Herbalism: .......... 0 
+ Intrigue: ........... 0 | Gambling: ........... 0 | Media: .............. 0 
+ Intuition: .......... 0 | Martial Arts: ....... 0 | Military Science: ... 2 
+ Scrounging: ......... 0 | Meditation: ......... 0 | Poisons: ............ 0 
+ Seduction: .......... 0 | Networking: ......... 0 | Power-Brokering: .... 0 
+ Style: .............. 0 | Pilot: .............. 0 | Vice: ............... 0 
+ ══════════════════════════════════ Powers ═══════════════════════════════════
+                                     Arts                                     
+ Sovereign: .......... 3   Soothsay: ........... 3   Winter: ............. 2  
+
+                                    Realms                                    
+ Fae: ................ 3   Scene: .............. 3   Time: ............... 3  
+
+ ═══════════ Advantages ═══════════════════ Pools ══════════════ Health ══════
+             Backgrounds           | Banality: ...... 0/3 | Bruised    0 [ ]  
+ Dreamers: ..................... 3 | Blood: .......... 10 | Hurt      -1 [ ]  
+ Resources: .................... 2 | Glamour: ......... 4 | Injured   -1 [ ]  
+               Merits              | Nightmare: ....... 0 | Wounded   -2 [ ]  
+                                   | Willpower: ....... 5 | Mauled    -2 [ ]  
+                Flaws              |                      | Crippled  -5 [ ]  
+                                   |                      | Incap.   -99 [ ]  
+ ═════════════════════════════════════════════════════════════════════════════
+───<Blackwolf>───────────────
+	Blackwolf shakes his head "The Dreaming protects Nobles. Cantrips are harder to cast against them, they have a set of powers that we cannot, try as we might, wrest from them. It's why we couldn't defeat them in the Accordance war, or any of the variations that happened on the other continents. It's also why our Thallain Comrades don't merely sweep them off the board."
+─────────────────────────────
+───<Leith>───────────────
+"True," Leith agrees. "But Banality affects them more strongly as well. They're frailer than we are. The more time goes by, the closer we are to Winter, the weaker they'll be - the Arcadians, that is. And the Autumn Sidhe simply can't hide - from the mortals they enchant, from the others who pursue their Glamour. The structure they sit atop is a house of cards."
+─────────────────────────
+───<Blackwolf>───────────────
+	Blackwolf shakes his head "That is not true of any but the Arcadian Sidhe. Those of kiths who have undertaken the Changeling Way as well. Their empire may be built on sand, but what is built endures." Glamour, dark and raw begins to flare up around the Satyr and,1 upon noticing it, he nods and whispers something to voices that he alone can hear. "It is time for you to go about your work in your part of the world. I have been summoned elsewhere."
+─────────────────────────────
+<OOC> Blackwolf says, "You have a huge headstart on the others. Use it exactly as you will."
+<OOC> Leith says, "I'll do what I can"
+<OOC> Blackwolf says, "Also if you want to buy dark reputation 1, you can at 3xp going forward."
+<OOC> Blackwolf says, "Not each dot, but the first"
+<OOC> Leith says, "Perfect"
+<OOC> Leith nods
+<OOC> Blackwolf says, "You are the only one to have shown up to an advertised event. You get the plot cookie and you stand out IC"
+───<Leith>───────────────
+Leith dips his head. "Thank you for your time, comrade. I'll report back in with what I've been able to manage, as soon as I've taken steps forward. Where there's a will, there's a way." His dark eyes are fierce behind the mask, depthless as a moonless night's sea.
+─────────────────────────
+ /~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\ 
+((                                                                         ))
+ ))                   *** RhostMUSH Disconnected. ***                     ((
+((                                                                         ))
+ \_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/
+  ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~  

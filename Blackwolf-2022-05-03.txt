@@ -1,0 +1,955 @@
+Logfile from Liberation (Blackwolf)
+Log opened 03/05/2022  -  14:51:02
+
+Connecting to game.liberationmush.site:2020...
+Connected - 34.213.143.253 (ec2-34-213-143-253.us-west-2.compute.amazonaws.com) - 03/05/2022  -  14:51:01
+
+
+   __                      _.++._     _.+"+.                      _.++._
+.+"  `"._      _.+```+._.+'      `'.+'      '.     .+"".+```+._.+'      `'.+'
+         `+._.'      _____ .____              '+.+'
+            .____   +  ___++  _ \      ___   .______.               .__   __.
+        __  +  _ \  | +_   | +_) +    /   \  +      + __    _____   +  \ +  +
+ _     +  + | +_) + |  _+  |    /    /  ^  \ `++  ++`+  +  /  _  \  |   \+  |
++ +    |  | |  _ <  | +___ | +\ \   /  /_\  \  |  |  |  | +  + +  + |  . `  |
+| |    |  | | +_) + +_____++_+ \_\ /  _____  \ |  |  |  | |  + +  | |  +\   |
+| +    |  | +____/                /__/     \__\+__+  |  | +  `+'  + +__+ \__+
+| `+-+.+__+                                          +__+  \_____/
++_____+
+              Liberation MUSH: A World of Darkness 20th Anniversary
+                      Edition-based Role Playing Environment
+                     Set in Modern-Day Los Angeles California
+
+    To create new character     ----------=>   create <player> <password>  
+
+                PLEASE PUT NAMES WITH SPACES IN THEM  IN QUOTES!
+
+    To continue old character   ----------=>   connect <player> <password> 
+
+
+    Portions of the materials are the copyrights and trademarks of Paradox
+    Interactive AB, and are used with permission. All rights reserved.
+    For more information please visit worldofdarkness.com. This is not an
+    official World Of Darkness game.
+Last connect was from 79.97.158.201 on Tue Mar 29 11:15:56 2022.
+ ════════════════ Shadow Court Chamber ‒ Black Path of Balor ═════════════════
+
+                               --Dreaming Desc--                              
+                             ==The Near Dreaming==                            
+                            ==Black Path of Balor==                           
+
+        The Shadow Court Council Chamber is a wide amphitheatre overlooked by 
+three increasingly raised concentric circles of chairs. The disc at the       
+centre is pitch black, constructed of a substance so dark that vantablack     
+pales in comparison. Around the disc there is a circle of golden glyphs;      
+words of power designed solely to hide the chamber from prying eyes.          
+        Against the round wall of the room, there is a series of doors, each  
+leading to different freeholds accross the California, and upon entering each 
+person is automatically wrapped in a Cantrip that masks their true identity,  
+each member of each cell known only to the others in their cell; secrecy      
+shrouds everything here.                                                      
+
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Players ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Blackwolf           0s    A satyr with black fur and hair.                   
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Locations ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Exit <OUT>                           
+ ═════════════════════════════════════════════════════════════════════════════
+ ═══════════════════ Union Station ‒ Downtown Los Angeles ════════════════════
+
+                               --Dreaming Desc--                              
+                            ==Ambient Banality: 5==                           
+
+        ( Not set - Default Normal Desc shown )                               
+                                                                              
+        Los Angeles Union Station (LAUS) is the main railway station in Los   
+Angeles, California, and the largest railroad passenger terminal in the       
+Western United States. The station is a major transportation hub for Southern 
+California, serving almost 110,000 passengers a day, and the The Patsaouras   
+Transit Plaza on the east side of Union Station hosts several connecting bus  
+lines, including Metro Local, Metro Rapid and Metro Express lines, as well as 
+downtown DASH shuttles, many municipal bus lines, FlyAway express bus service 
+to Los Angeles International Airport, and University of Southern California   
+campus shuttles.                                                              
+                                                                              
+        The architecture combines Art Deco, Mission Revival, and Streamline   
+Moderne style, with architectural details such as eight-pointed stars, and    
+even elements of Dutch Colonial Revival architecture.                         
+        Enclosed garden patios are on either side of the waiting room, and    
+the lower parts of the interior walls are covered in travertine marble; The   
+upper parts have an early form of acoustical tile. The floor in the large     
+rooms is terra cotta with a central strip of inlaid marble. The ceiling in    
+the waiting room has the appearance of wood, but is actually made of steel.   
+                                                                              
+        Attached to the main building to the south is the station             
+restaurant. Although padlocked and stripped of many interior furnishings, the 
+topology of its vast rectangular space, rounded central counter, and          
+streamlined booths remains. The spectacular inlaid cement tile floor          
+reproduces the pattern of a Navajo blanket.                                   
+
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Players ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Blackwolf           0s    A satyr with black fur and hair.                   
+ Donovan             14m   A tall thin, blue eyed man.                        
+ Eochaid             2m    Old buff dude with a staff.                        
+ Theo                2h    Bald black man in an expensive suit.               
+ Julian              4m    Grey-eyed rake in his late thirties.               
+ Maud                23m   Short, well endowed with orange-red hair. App 2.   
+ Rowen               15h   20s, Japanese, Smartly Dressed, Sci Fi Bob         
+ Mateo               1h    6'2", tall, dark, and handsome.                    
+ Courtney            10h   Fit 20 y/o blonde. Fame 3: Tennis Star. 5'6"       
+ Melinda             10h   Late 20s. Blonde and gluten free!                  
+ Stacy               10h   5'3" Early 20s. Pale. Dyed hair. Taiwanese.        
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Directions ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ El Pueblo <W>                         Dogtown <N>                          
+ Arts District <S>                     Aliso Village <E>                    
+ ═════════════════════════════════════════════[ +Influence | Resources: 3 ]═══
++STOPLIGHT> All Green
+ ═════════════════════════════════ +banality ═════════════════════════════════
+
+ Blackwolf  3 | This soul is one treasured by the Dreaming. They burst with   
+              | potential and creativity. Chimera tend to pop into existence 
+              | around them as they daydream                                 
+ Donovan:   6 | While this soul is struggling against banality, the tide is   
+              | beginning to turn against the Dream. These souls are still   
+              | standing against the cold, but they are the last line of the 
+              | Dreaming's chosen.                                           
+ Eochaid:   0 | This soul is one treasured by the Dreaming. They burst with   
+              | potential and creativity. Chimera tend to pop into existence 
+              | around them as they daydream                                 
+ Theo:      8 | This person is practively inimical towards the Dreaming.      
+              | Chimeral evaporate in their presence. If not a willing foot  
+              | soldier of Banality, they are a pawn of it. Glamour itself is
+              | resistant to being wrought in their presence.                
+ Julian:    6 | While this soul is struggling against banality, the tide is   
+              | beginning to turn against the Dream. These souls are still   
+              | standing against the cold, but they are the last line of the 
+              | Dreaming's chosen.                                           
+ Maud:      3 | This soul is one treasured by the Dreaming. They burst with   
+              | potential and creativity. Chimera tend to pop into existence 
+              | around them as they daydream                                 
+ Rowen:     6 | While this soul is struggling against banality, the tide is   
+              | beginning to turn against the Dream. These souls are still   
+              | standing against the cold, but they are the last line of the 
+              | Dreaming's chosen.                                           
+ Mateo:     4 | With a little work and cultivation, Glamour could flow from   
+              | this person. Creative energy hums all around them.           
+ Courtney:  7 | The relentless onslaught of banality has eroded all but the   
+              | deepest inner core of this person. Bringing creativity back  
+              | into their life would require a lifestyle change             
+ Melinda:   7 | The relentless onslaught of banality has eroded all but the   
+              | deepest inner core of this person. Bringing creativity back  
+              | into their life would require a lifestyle change             
+ Stacy:     7 | The relentless onslaught of banality has eroded all but the   
+              | deepest inner core of this person. Bringing creativity back  
+              | into their life would require a lifestyle change             
+ ============================================================================
+ ═══════════════════════════════════ Mateo ═══════════════════════════════════
+                               --Dreaming Desc--                              
+
+( Not set - Default Normal Desc shown )
+                                                                              
+        He stands a shade over six feet with a lean body and confident        
+stance that makes him seem even taller than he is. There is a natural grace   
+in all that he does. Never is a movement wasted, nor does a finger twitch     
+without trying to achieve some deliberate effect. There is nothing forced     
+about it, no sense of conscious effort, his body under perpetually perfect    
+control. And though he is slender, with no apparent surplus body fat nor a    
+muscle-bound physique, each chord in his arms and legs also serves a specific 
+purpose.                                                                      
+                                                                              
+        He, however contradictory it may be, seems like he's stronger than    
+he looks. His skin is a lovely light tan. This slight permanent coloration    
+never fades but is the type of natural coloration that at times should change 
+to a warmer golden bronze if out in the sun. But his hair is a dark           
+brown-black, close-cut in a fade leading up a longer length held in place     
+with styling gel. His face is elegantly mottled with designer stubble, a      
+shade longer and blacker about the chin and upper lip. His eyes are a rich    
+brown color.                                                                  
+
+ ═════════════════════════════════════════════════════════════════════════════
+ ══════════════════════════════ Mateo's +finger ══════════════════════════════
+ Full Name: Mateo Zavala            | Idle: 1h
+ -----------------------------------------------------------------------------
+ Status: Approved Player
+ -----------------------------------------------------------------------------
+ Alias ..............: 
+ Online Times .......: 
+ Pronouns ...........: He/Him/His
+ Rp Preferences .....: 
+ Character Quote ....: 
+ Position ...........: 
+ Wiki ...............: https://liberationmush.site/liberationwiki/Mateo
+
+ =============================================================================
+Blackwolf(#7233P-c~>sO<[t])
+ ═════════════════════════════════ Blackwolf ═════════════════════════════════
+                               --Dreaming Desc--                              
+
+        There is more than a touch of Bedlam about this creature, as though   
+he lives in the Dreaming and ventures into the Autumn only for the most       
+necessary functions. That said, his bearing and posture bespeak a man who     
+could have lead nations to glory.                                             
+        His torso is covered in a suit of fae mail that is pristine, without  
+even the hint of rust or banality on it. A belt of spun gold around his waist 
+carries a sword of the deepest vermillion that screams danger. His legs are   
+unclad, covered in black fur that is thick and maintain his modesty.          
+
+ ═════════════════════════════════════════════════════════════════════════════
+Look> Blackwolf looked at you.
++SHOWREALDESCS> You ENABLE the always-on display of 'Real' reality descs.
+Blackwolf(#7233P-c~>sO<[t])
+ ═════════════════════════════════ Blackwolf ═════════════════════════════════
+                               --Dreaming Desc--                              
+
+        There is more than a touch of Bedlam about this creature, as though   
+he lives in the Dreaming and ventures into the Autumn only for the most       
+necessary functions. That said, his bearing and posture bespeak a man who     
+could have lead nations to glory.                                             
+        His torso is covered in a suit of fae mail that is pristine, without  
+even the hint of rust or banality on it. A belt of spun gold around his waist 
+carries a sword of the deepest vermillion that screams danger. His legs are   
+unclad, covered in black fur that is thick and maintain his modesty.          
+
+ ═════════════════════════════════════════════════════════════════════════════
+Look> Blackwolf looked at you.
+Set.
+Blackwolf(#7233P-c~>sO<[t])
+ ═════════════════════════════════ Blackwolf ═════════════════════════════════
+                               --Dreaming Desc--                              
+
+        There is more than a touch of Bedlam about this creature, as though   
+he lives in the Dreaming and ventures into the Autumn only for the most       
+necessary functions. That said, his bearing and posture bespeak a man who     
+could have lead nations to glory.                                             
+        His torso is covered in a suit of fae mail that is pristine, without  
+even the hint of rust or banality on it. A belt of spun gold around his waist 
+carries a sword of the deepest vermillion that screams danger. His legs are   
+unclad, covered in black fur that is thick and maintain his modesty.          
+
+                                -- Real Desc --                               
+
+                                                                              
+                Blackwolf's eyes dart about the place and his general         
+demeanour is a little on the side of madness. He must surely work with        
+animals given the musky scent that hangs upon him and his scruffy appearance  
+more supports the idea more than a little. His short-cut jet-black hair is    
+unbrushed and unkempt, much like the rest of him. And, wait a second, are his 
+eyes golden and goat-like? No, that must be an optical illusion, they're      
+perfectly normal blue. Right? Blue eyes, perfectly normal.                    
+
+ ═════════════════════════════════════════════════════════════════════════════
+Look> Blackwolf looked at you.
+@lock me==*Blackwolf
+&STATUS me=Sandboxer
+@Guild me=Citizen
+@lock/EnterLock me==*Blackwolf
+@lock/GiveLock me==*Blackwolf
+@lock/LeaveLock me==*Blackwolf
+@lock/LinkLock me==*Blackwolf
+@lock/ParentLock me==*Blackwolf
+@lock/ReceiveLock me==*Blackwolf
+@lock/DropLock me==*Blackwolf
+@lock/TeloutLock me==*Blackwolf
+@lock/TportLock me==*Blackwolf
+@lock/OpenLock me==*Blackwolf
+@lock/DropToLock me==*Blackwolf
+@lock/GiveToLock me==*Blackwolf
+@lock/GetFromLock me==*Blackwolf
+@lock/UseLock me==*Blackwolf
+@lock/PageLock me=LOCK_PAGE/0
+@lock/MailLock me=LOCK_MAIL/0
+@MailSMax me=50
+&SHORT-DESC me=A satyr with black fur and hair.
+&DREAMINGDESC me=[wrap(u(faedesc), 78)]
+&FAEDESC me=%t%x0x63There is more than a touch of Bedlam about this creature, as though he lives in the Dreaming and ventures into the Autumn only for the most necessary functions. That said, his bearing and posture bespeak a man who could have lead nations to glory.%r%tHis torso is covered in a suit of fae mail that is pristine, without even the hint of rust or banality on it. A belt of spun gold around his waist carries a sword of the deepest vermillion that screams danger. His legs are unclad, covered in black fur that is thick and maintain his modesty.
+&SPEECH_SUFFIX me=%x0xe2%<u2500>%<u2500>%<u2500>%<u2500>%xn%xh[repeat(%<u2500>,strlen(cname(%3)))]%xn%x0xe2%<u2500>%<u2500>%<u2500>%<u2500>%<u2500>%<u2500>%<u2500>%<u2500>%<u2500>%<u2500>%<u2500>%<u2500>%<u2500>%<u2500>%<u2500>%<u2500>%xn
+&SPEECH_PREFIX me=%x0xe2%<u2500>%<u2500>%<u2500><%xn%xh[cname(%3)]%xn%x0xe2>%<u2500>%<u2500>%<u2500>%<u2500>%<u2500>%<u2500>%<u2500>%<u2500>%<u2500>%<u2500>%<u2500>%<u2500>%<u2500>%<u2500>%<u2500>%xn
+&CMD.POSE me=$+pose *:@emit [u(var.speech)]%t%n %0
+&CMD.EMIT me=$+emit *:@emit [u(var.speech)]%t%0
+&TOGGLE me=utf8
+&VAR.SPEECH me=%x0xF3
+&SHOW_REALDESC me=1
+@Desc me=%tBlackwolf's eyes dart about the place and his general demeanour is a little on the side of madness. He must surely work with animals given the musky scent that hangs upon him and his scruffy appearance more supports the idea more than a little. His short-cut jet-black hair is unbrushed and unkempt, much like the rest of him. And, wait a second, are his eyes golden and goat-like? No, that must be an optical illusion, they're perfectly normal blue. Right? Blue eyes, perfectly normal.
+@set me/Desc = default
+@rxlevel me=Real Chimera
+@txlevel me=Real Admin Chimera Wraith
+@set me=NO_FLASH INDESTRUCTABLE ANSICOLOR XTERMCOLOR SAFE OPAQUE ANSI
+@toggle me=UTF8 VPAGE KEEPALIVE BRANDY_MAIL MUXPAGE
+@parent me=PARENT-Changeling
+Set.
+Blackwolf(#7233P-c~>sO<[t])
+ ═════════════════════════════════ Blackwolf ═════════════════════════════════
+                               --Dreaming Desc--                              
+
+        There is more than a touch of Bedlam about this creature, as though   
+he lives in the Dreaming and ventures into the Autumn only for the most       
+necessary functions. That said, his bearing and posture bespeak a man who     
+could have lead nations to glory.                                             
+        His torso is covered in a suit of fae mail that is pristine, without  
+even the hint of rust or banality on it. A belt of spun gold around his waist 
+carries a sword of the deepest vermillion that screams danger. His legs are   
+unclad, covered in black fur that is thick and maintain his modesty.          
+
+                                -- Real Desc --                               
+
+                                                                              
+                Blackwolf's eyes dart about the place and his general         
+demeanour is a little on the side of madness. He must surely work with        
+animals given the musky scent that hangs upon him and his scruffy appearance  
+more supports the idea more than a little. His short-cut jet-black hair is    
+unbrushed and unkempt, much like the rest of him. And, wait a second, are his 
+eyes golden and goat-like? No, that must be an optical illusion, they're      
+perfectly normal blue. Right? Blue eyes, perfectly normal.                    
+
+ ═════════════════════════════════════════════════════════════════════════════
+Look> Blackwolf looked at you.
+<OOC> Blackwolf hisses at Eochaid and then flees back to the Dreaming, where he belongs
+ ═══════════════ Workshop ‒ Noble Arms Smithy ‒ The Palisades ════════════════
+
+                               --Dreaming Desc--                              
+                            ==Ambient Banality: 3==                           
+
+        The forge in the Dreaming is both more spacious and better, a large   
+forge powered by a chimerical salamander's nest replaces the gas forge, the   
+pneumatic press has clearly been Nockered and the tools, which in the Autumn  
+seemed so normal and boring, each bear the tell tale sign of Sidhe            
+workmanship.                                                                  
+                                                                              
+ ----------------------------------- Trods ---------------------------------- 
+ Xenuhemach Stronghold <XS>                                                   
+
+                                -- Real Desc --                               
+                                                                              
+        The workshop lacks any of the store-polish of the shopfront. Where    
+the shop front has granite floors, the workshop has concrete. Hanging racks   
+for air cooling metal along stretch one wall and industrial machinery and     
+blacksmithing tools everywhere else. Great effort has clearly been expended   
+bringing the old building up to modern code, the coal forge has been replaced 
+by a gas powered one, and a pneumatic press stands ready to do most of the    
+heavy metal pounding.                                                         
+        The workshop has clearly been laid out to optimise efficiency, the    
+right tool for the right station, room for three workers to use the space     
+safely. The floor is kept meticulously clean, the room is cooled via heat     
+sinks, leaving an impression of a team that cares for and takes care of the   
+workshop. Along the back wall, swords, shields and pieces of armor in various 
+stages of completion are hung carefully, some awaiting only the finishing     
+touches before being moved to the storefront, or being packaged to be posted  
+to far off places.                                                            
+
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Players ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Blackwolf           0s    A satyr with black fur and hair.                   
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Objects ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Vault                                 
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Locations ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Showroom <SR>                         Training Room <TR>                   
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Directions ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Stairs <UP>                          
+ ═════════════════════════════════════════════════════════════════════════════
+You exit the workshop and head into the freehold.
+ ════════════ The Mouth of Weshah'emat ‒ County of Scale and Vine ════════════
+
+                               --Dreaming Desc--                              
+                             ==The Near Dreaming==                            
+                              ==The Silver Path==                             
+
+        Here there be dragons. Or at least most of the skeleton of one.       
+Zysyss the Unholy emerged from within the cold depths of the abyss known as   
+Weshah'emat, a massive undead dragon that nearly destroyed the Stronghold     
+above and killed the previous Countess, Morigainne ni Fiona. While the skull  
+was taken as trophy and put on display in the Audience Chamber above, the     
+rest of the skeleton remains here, a warning, perhaps, to the other monsters  
+that dwell within the black depths of the terrible fissure.                   
+        Blackened ice wreathes the mouth of the ravine that runs along the    
+valley floor and cuts through the verdant countryside like a black and        
+diseased vein. The ravine reaches all the way to the Welicshem glacier that   
+covers the Dreaming around the downtown sections of Los Angeles, like a scar  
+spreading from a wound. The valley floor here is the sight of many battles,   
+the fields dusty and barren at the base of the cliff and along either bank of 
+the ravine, though not far past those edges, the rest of the land comes       
+swiftly alive, rich in resources and materials, tended to by the County's     
+vassals.                                                                      
+
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Players ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Blackwolf           0s    A satyr with black fur and hair.                   
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Locations ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Armory Workshop <AW>                 
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Directions ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Pod Up <UP>                           The Valley of Sorrows <E>            
+ ═════════════════════════════════════════════════════════════════════════════
+ ═════════════════════════════════ hangouts ══════════════════════════════════
+   # | Info                                                            Players
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ County of Scale and Vine ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+  59 |  Goswyn's Hollow ................................................... 1
+     |     A homestead in the Dreaming, carved into the trunk of an incredi
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+       * = Hidden Hangout
+       +hangouts/all - show all hangouts
+       +hangouts/type <category> - show all hangouts of a certain category
+       +hangouts/type - show all hangouts separated by category
+ ═════════════════════════════════════════════════════════════════════════════
+ ════════════════════════════════ hangout/all ════════════════════════════════
+   # | Info                                                            Players
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ County of Scale and Vine ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+  31 |  The Hanging Gardens - Xenuhemach Stronghold ....................... -
+     |     The Hanging Gardens at Xenuhemach, acting capital of the County 
+  59 |  Goswyn's Hollow ................................................... 1
+     |     A homestead in the Dreaming, carved into the trunk of an incredi
+ 143 |  Veranda - Red Lion Tavern ......................................... -
+     |     A Fixture in the Dreaming since the Accordance War.             
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Black Path of Balor ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ 165 | *Shadow Court Chamber .............................................. -
+     |     The Shadow Court Council chambers.                              
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ The Near Dreaming ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ 141 | *Heart of the Glade - North Star Cavern ............................ -
+     |     A soaring cavern in the Nunnehi Lodge in Central Malibu.        
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ The Silver Path ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ 155 | *The Beaches - La Maison de Sable et de Ciel ....................... -
+     |     The beaches of Land's End are a sight to behold, in more ways th
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+       * = Hidden Hangout
+       +hangouts/type <category> - show all hangouts of a certain category
+       +hangouts/type - show all hangouts separated by category
+ ═════════════════════════════════════════════════════════════════════════════
+ ════════════════ Shadow Court Chamber ‒ Black Path of Balor ═════════════════
+
+                               --Dreaming Desc--                              
+                             ==The Near Dreaming==                            
+                            ==Black Path of Balor==                           
+
+        The Shadow Court Council Chamber is a wide amphitheatre overlooked by 
+three increasingly raised concentric circles of chairs. The disc at the       
+centre is pitch black, constructed of a substance so dark that vantablack     
+pales in comparison. Around the disc there is a circle of golden glyphs;      
+words of power designed solely to hide the chamber from prying eyes.          
+        Against the round wall of the room, there is a series of doors, each  
+leading to different freeholds accross the California, and upon entering each 
+person is automatically wrapped in a Cantrip that masks their true identity,  
+each member of each cell known only to the others in their cell; secrecy      
+shrouds everything here.                                                      
+
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Players ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Blackwolf           0s    A satyr with black fur and hair.                   
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Locations ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Exit <OUT>                           
+ ═════════════════════════════════════════════════════════════════════════════
+Logfile from Liberation (Blackwolf)
+Log opened 03/05/2022  -  21:30:37
+
+Connecting to game.liberationmush.site:2020...
+Connected - 34.213.143.253 (ec2-34-213-143-253.us-west-2.compute.amazonaws.com) - 03/05/2022  -  21:30:35
+
+
+--------- New Activity ---------
+   __                      _.++._     _.+"+.                      _.++._
+.+"  `"._      _.+```+._.+'      `'.+'      '.     .+"".+```+._.+'      `'.+'
+         `+._.'      _____ .____              '+.+'
+            .____   +  ___++  _ \      ___   .______.               .__   __.
+        __  +  _ \  | +_   | +_) +    /   \  +      + __    _____   +  \ +  +
+ _     +  + | +_) + |  _+  |    /    /  ^  \ `++  ++`+  +  /  _  \  |   \+  |
++ +    |  | |  _ <  | +___ | +\ \   /  /_\  \  |  |  |  | +  + +  + |  . `  |
+| |    |  | | +_) + +_____++_+ \_\ /  _____  \ |  |  |  | |  + +  | |  +\   |
+| +    |  | +____/                /__/     \__\+__+  |  | +  `+'  + +__+ \__+
+| `+-+.+__+                                          +__+  \_____/
++_____+
+              Liberation MUSH: A World of Darkness 20th Anniversary
+                      Edition-based Role Playing Environment
+                     Set in Modern-Day Los Angeles California
+
+    To create new character     ----------=>   create <player> <password>  
+
+                PLEASE PUT NAMES WITH SPACES IN THEM  IN QUOTES!
+
+    To continue old character   ----------=>   connect <player> <password> 
+
+
+    Portions of the materials are the copyrights and trademarks of Paradox
+    Interactive AB, and are used with permission. All rights reserved.
+    For more information please visit worldofdarkness.com. This is not an
+    official World Of Darkness game.
+Last connect was from 79.97.158.201 on Tue May  3 06:51:03 2022.
+ ════════════════ Shadow Court Chamber ‒ Black Path of Balor ═════════════════
+
+                               --Dreaming Desc--                              
+                             ==The Near Dreaming==                            
+                            ==Black Path of Balor==                           
+
+        The Shadow Court Council Chamber is a wide amphitheatre overlooked by 
+three increasingly raised concentric circles of chairs. The disc at the       
+centre is pitch black, constructed of a substance so dark that vantablack     
+pales in comparison. Around the disc there is a circle of golden glyphs;      
+words of power designed solely to hide the chamber from prying eyes.          
+        Against the round wall of the room, there is a series of doors, each  
+leading to different freeholds accross the California, and upon entering each 
+person is automatically wrapped in a Cantrip that masks their true identity,  
+each member of each cell known only to the others in their cell; secrecy      
+shrouds everything here.                                                      
+
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Players ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Blackwolf           0s    A satyr with black fur and hair.                   
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Locations ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Exit <OUT>                           
+ ═════════════════════════════════════════════════════════════════════════════
+ ═══════════════════ Union Station ‒ Downtown Los Angeles ════════════════════
+
+                               --Dreaming Desc--                              
+                            ==Ambient Banality: 5==                           
+
+        ( Not set - Default Normal Desc shown )                               
+                                                                              
+        Los Angeles Union Station (LAUS) is the main railway station in Los   
+Angeles, California, and the largest railroad passenger terminal in the       
+Western United States. The station is a major transportation hub for Southern 
+California, serving almost 110,000 passengers a day, and the The Patsaouras   
+Transit Plaza on the east side of Union Station hosts several connecting bus  
+lines, including Metro Local, Metro Rapid and Metro Express lines, as well as 
+downtown DASH shuttles, many municipal bus lines, FlyAway express bus service 
+to Los Angeles International Airport, and University of Southern California   
+campus shuttles.                                                              
+                                                                              
+        The architecture combines Art Deco, Mission Revival, and Streamline   
+Moderne style, with architectural details such as eight-pointed stars, and    
+even elements of Dutch Colonial Revival architecture.                         
+        Enclosed garden patios are on either side of the waiting room, and    
+the lower parts of the interior walls are covered in travertine marble; The   
+upper parts have an early form of acoustical tile. The floor in the large     
+rooms is terra cotta with a central strip of inlaid marble. The ceiling in    
+the waiting room has the appearance of wood, but is actually made of steel.   
+                                                                              
+        Attached to the main building to the south is the station             
+restaurant. Although padlocked and stripped of many interior furnishings, the 
+topology of its vast rectangular space, rounded central counter, and          
+streamlined booths remains. The spectacular inlaid cement tile floor          
+reproduces the pattern of a Navajo blanket.                                   
+
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Players ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Blackwolf           0s    A satyr with black fur and hair.                   
+ Maud                35m   Short, well endowed with orange-red hair. App 2.   
+ Theo                40m   Bald black man in an expensive suit.               
+ Mateo               6h    6'2", tall, dark, and handsome.                    
+ Courtney            16h   Fit 20 y/o blonde. Fame 3: Tennis Star. 5'6"       
+ Melinda             17h   Late 20s. Blonde and gluten free!                  
+ Stacy               16h   5'3" Early 20s. Pale. Dyed hair. Taiwanese.        
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Directions ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ El Pueblo <W>                         Dogtown <N>                          
+ Arts District <S>                     Aliso Village <E>                    
+ ═════════════════════════════════════════════[ +Influence | Resources: 3 ]═══
++STOPLIGHT> All Green
++MEET/BRING> You sent a +meet request to Alejandro. Note: Moving from this location will invalidate the request.
+ ══════ Alejandro's Quarters ‒ Historic Mansion ‒ Downtown Los Angeles ═══════
+
+                               --Dreaming Desc--                              
+                            ==Ambient Banality: 6==                           
+
+        ( Not set - Default Normal Desc shown )                               
+                                                                              
+        The High Magisters room is exactly what you would expect of it. A     
+room with a small bed, blackout curtains, and the accoutrement's of a         
+practiced sorceror. In one corner there is a modest, but respectable, set of  
+materials from the Chantry's store for whatever experiments Alejandro is      
+working. Between it and the window, there is a pedestal with a book holder    
+and the High Magister's personal Grimoire left open on an incomplete ritual,  
+something indistinguishable.                                                  
+        The wardrobe contains a spread of similar, but not quite identical,   
+charcoal suits and Tremere robes as well as a variety of decade appropriate   
+casual aware from the 1980s through to the current era. One never knows when  
+trends will swing around. Suits, however, are always in style.                
+
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Players ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Blackwolf           11s   A satyr with black fur and hair.                   
+ Alejandro           0s    Palid Latino with a jet black short cropped ponytai
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Exits ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Leave <O>                            
+ ═════════════════════════════════════════════════════════════════════════════
++STOPLIGHT> All Green
++ENCHANT> You cannot enchant people!
++ENCHANT> You have enchanted Alejandro for 1 days.
+Look> Alejandro looked at you.
+ ══════ Alejandro's Quarters ‒ Historic Mansion ‒ Downtown Los Angeles ═══════
+
+                               --Dreaming Desc--                              
+                            ==Ambient Banality: 6==                           
+
+        ( Not set - Default Normal Desc shown )                               
+                                                                              
+        The High Magisters room is exactly what you would expect of it. A     
+room with a small bed, blackout curtains, and the accoutrement's of a         
+practiced sorceror. In one corner there is a modest, but respectable, set of  
+materials from the Chantry's store for whatever experiments Alejandro is      
+working. Between it and the window, there is a pedestal with a book holder    
+and the High Magister's personal Grimoire left open on an incomplete ritual,  
+something indistinguishable.                                                  
+        The wardrobe contains a spread of similar, but not quite identical,   
+charcoal suits and Tremere robes as well as a variety of decade appropriate   
+casual aware from the 1980s through to the current era. One never knows when  
+trends will swing around. Suits, however, are always in style.                
+
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Players ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Blackwolf           0s    A satyr with black fur and hair.                   
+ Alejandro           1m    Palid Latino with a jet black short cropped ponytai
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Exits ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Leave <O>                            
+ ═════════════════════════════════════════════════════════════════════════════
+ ═══════════════ Workshop ‒ Noble Arms Smithy ‒ The Palisades ════════════════
+
+                               --Dreaming Desc--                              
+                            ==Ambient Banality: 3==                           
+
+        The forge in the Dreaming is both more spacious and better, a large   
+forge powered by a chimerical salamander's nest replaces the gas forge, the   
+pneumatic press has clearly been Nockered and the tools, which in the Autumn  
+seemed so normal and boring, each bear the tell tale sign of Sidhe            
+workmanship.                                                                  
+                                                                              
+ ----------------------------------- Trods ---------------------------------- 
+ Xenuhemach Stronghold <XS>                                                   
+
+                                -- Real Desc --                               
+                                                                              
+        The workshop lacks any of the store-polish of the shopfront. Where    
+the shop front has granite floors, the workshop has concrete. Hanging racks   
+for air cooling metal along stretch one wall and industrial machinery and     
+blacksmithing tools everywhere else. Great effort has clearly been expended   
+bringing the old building up to modern code, the coal forge has been replaced 
+by a gas powered one, and a pneumatic press stands ready to do most of the    
+heavy metal pounding.                                                         
+        The workshop has clearly been laid out to optimise efficiency, the    
+right tool for the right station, room for three workers to use the space     
+safely. The floor is kept meticulously clean, the room is cooled via heat     
+sinks, leaving an impression of a team that cares for and takes care of the   
+workshop. Along the back wall, swords, shields and pieces of armor in various 
+stages of completion are hung carefully, some awaiting only the finishing     
+touches before being moved to the storefront, or being packaged to be posted  
+to far off places.                                                            
+
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Players ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Blackwolf           0s    A satyr with black fur and hair.                   
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Objects ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Vault                                 
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Locations ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Showroom <SR>                         Training Room <TR>                   
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Directions ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Stairs <UP>                          
+ ═════════════════════════════════════════════════════════════════════════════
+You exit the workshop and head into the freehold.
+ ════════════ The Mouth of Weshah'emat ‒ County of Scale and Vine ════════════
+
+                               --Dreaming Desc--                              
+                             ==The Near Dreaming==                            
+                              ==The Silver Path==                             
+
+        Here there be dragons. Or at least most of the skeleton of one.       
+Zysyss the Unholy emerged from within the cold depths of the abyss known as   
+Weshah'emat, a massive undead dragon that nearly destroyed the Stronghold     
+above and killed the previous Countess, Morigainne ni Fiona. While the skull  
+was taken as trophy and put on display in the Audience Chamber above, the     
+rest of the skeleton remains here, a warning, perhaps, to the other monsters  
+that dwell within the black depths of the terrible fissure.                   
+        Blackened ice wreathes the mouth of the ravine that runs along the    
+valley floor and cuts through the verdant countryside like a black and        
+diseased vein. The ravine reaches all the way to the Welicshem glacier that   
+covers the Dreaming around the downtown sections of Los Angeles, like a scar  
+spreading from a wound. The valley floor here is the sight of many battles,   
+the fields dusty and barren at the base of the cliff and along either bank of 
+the ravine, though not far past those edges, the rest of the land comes       
+swiftly alive, rich in resources and materials, tended to by the County's     
+vassals.                                                                      
+
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Players ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Blackwolf           0s    A satyr with black fur and hair.                   
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Locations ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Armory Workshop <AW>                 
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Directions ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Pod Up <UP>                           The Valley of Sorrows <E>            
+ ═════════════════════════════════════════════════════════════════════════════
+ ════════════════════════════════ hangout/all ════════════════════════════════
+   # | Info                                                            Players
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ County of Scale and Vine ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+  31 |  The Hanging Gardens - Xenuhemach Stronghold ....................... -
+     |     The Hanging Gardens at Xenuhemach, acting capital of the County 
+  59 |  Goswyn's Hollow ................................................... 1
+     |     A homestead in the Dreaming, carved into the trunk of an incredi
+ 143 |  Veranda - Red Lion Tavern ......................................... -
+     |     A Fixture in the Dreaming since the Accordance War.             
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Black Path of Balor ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ 165 | *Shadow Court Chamber .............................................. -
+     |     The Shadow Court Council chambers.                              
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ The Near Dreaming ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ 141 | *Heart of the Glade - North Star Cavern ............................ -
+     |     A soaring cavern in the Nunnehi Lodge in Central Malibu.        
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ The Silver Path ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ 155 | *The Beaches - La Maison de Sable et de Ciel ....................... -
+     |     The beaches of Land's End are a sight to behold, in more ways th
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+       * = Hidden Hangout
+       +hangouts/type <category> - show all hangouts of a certain category
+       +hangouts/type - show all hangouts separated by category
+ ═════════════════════════════════════════════════════════════════════════════
+ ════════════════ Goswyn's Hollow ‒ County of Scale and Vine ═════════════════
+
+                               --Dreaming Desc--                              
+                             ==The Near Dreaming==                            
+                              ==The Silver Path==                             
+
+        Goswyn's Hollow is a quaint little town that has been carved out of   
+the trunk of an incredibly large, petrified tree trunk. With a diameter of a  
+hundred yards, the first floor is comprised of store-fronts and shops,        
+ranging from butchers, jewelry forging, general grocers and leather goods.    
+The center of the tree has been bored out eons ago, a sweet-smelling meadow   
+full of flowers and slender trees surrounding a main well in the very center. 
+Curved stairs run along either side, leading up to the second floor which     
+holds a number of clothing shops, fabric wholesalers and a cafe or two.       
+Further up, the third ring houses small homes and shared apartments for those 
+who run the shops below.                                                      
+        Prominently displayed are Aillil banners with the heraldry of Count   
+Hawthorn. While this area is considered to be his fiefdom, and there are      
+often a few County guards in residence to assist in keeping the peace and     
+though there are some Loyalists, it is mostly populated by Commoners          
+indifferent to the vagaries of court politics.                                
+
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Players ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Blackwolf           0s    A satyr with black fur and hair.                   
+ Cynthia             18h   Petite. 21. Blonde. Fame 1: Aspiring Actress       
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Directions ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Forests of Mists <FOM>                The Woods of Whispered Songs <NW>    
+ Sea of Amethyst Grass <E>             Valley of Sorrows <S>                
+ ═════════════════════════════════════════════════════════════════════════════
++STOPLIGHT> All Green
+ ════════════════ Shadow Court Chamber ‒ Black Path of Balor ═════════════════
+
+                               --Dreaming Desc--                              
+                             ==The Near Dreaming==                            
+                            ==Black Path of Balor==                           
+
+        The Shadow Court Council Chamber is a wide amphitheatre overlooked by 
+three increasingly raised concentric circles of chairs. The disc at the       
+centre is pitch black, constructed of a substance so dark that vantablack     
+pales in comparison. Around the disc there is a circle of golden glyphs;      
+words of power designed solely to hide the chamber from prying eyes.          
+        Against the round wall of the room, there is a series of doors, each  
+leading to different freeholds accross the California, and upon entering each 
+person is automatically wrapped in a Cantrip that masks their true identity,  
+each member of each cell known only to the others in their cell; secrecy      
+shrouds everything here.                                                      
+
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Players ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Blackwolf           0s    A satyr with black fur and hair.                   
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Locations ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Exit <OUT>                           
+ ═════════════════════════════════════════════════════════════════════════════
+BBS: New BB message (3/56) posted to 'LiberationMUSH: Code / Wiki' by Eochaid: +enchant code
++HOME/LINK> Your home has been set to Shadow Court Chamber.
+ ════════════════════════════════ hangout/all ════════════════════════════════
+   # | Info                                                            Players
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ County of Scale and Vine ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+  31 |  The Hanging Gardens - Xenuhemach Stronghold ....................... -
+     |     The Hanging Gardens at Xenuhemach, acting capital of the County 
+  59 |  Goswyn's Hollow ................................................... 1
+     |     A homestead in the Dreaming, carved into the trunk of an incredi
+ 143 |  Veranda - Red Lion Tavern ......................................... -
+     |     A Fixture in the Dreaming since the Accordance War.             
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Black Path of Balor ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ 165 | *Shadow Court Chamber .............................................. 1
+     |     The Shadow Court Council chambers.                              
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ The Near Dreaming ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ 141 | *Heart of the Glade - North Star Cavern ............................ -
+     |     A soaring cavern in the Nunnehi Lodge in Central Malibu.        
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ The Silver Path ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ 155 | *The Beaches - La Maison de Sable et de Ciel ....................... -
+     |     The beaches of Land's End are a sight to behold, in more ways th
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+       * = Hidden Hangout
+       +hangouts/type <category> - show all hangouts of a certain category
+       +hangouts/type - show all hangouts separated by category
+ ═════════════════════════════════════════════════════════════════════════════
+ ══ The Hanging Gardens ‒ Xenuhemach Stronghold ‒ County of Scale and Vine ═══
+
+                               --Dreaming Desc--                              
+                             ==The Near Dreaming==                            
+                              ==The Silver Path==                             
+
+                The rath opens into paradise. Honey colored stone, polished   
+to a brilliant shine and run through with veins of black opal, forms a short, 
+cylindrical hallway. Verdant grass and an abundance of flowering plants cover 
+the floor on either side of the central path, spiraling up the walls and      
+across the ceiling to form the beginnings of a hanging garden.                
+        The hallway open up to a wide, domed room of the same honey and opal  
+stone. The ceiling of the room is a massive forest glen, full of grasses,     
+slender birch trees and flowers, so, so many flowers. All the plants are      
+suspended upside down, growing from the ceiling above. Flowering vines hang   
+between the trees, creating perfect swings, while slender tree branches twist 
+together to create suspended benches for seating. The walls here are glass,   
+numerous panels are able to be opened to allow for fresh air to circulate,    
+and afford a spectacular view of the valley floor, some five hundred feet     
+below.                                                                        
+        The music of a babbling stream is provided by a creek that runs along 
+the ceiling, schools of brightly colored goldfish can be seen occasionally    
+breaching the surface. Plenty of chimera make their homes here, clusters of   
+Nevers have built a hive-like structure in one of the taller trees, while     
+pixies can be seen frolicking in the grasses above. In the evenings clouds of 
+fog swirl around the grass, creating a cloud effect, and on rare occasions    
+there is a misting rain that falls from above.                                
+        In the far back corner, there is a nest built out of fresh, sweet     
+grasses and hay, a pair of silver-crafted dragons relax in between their      
+duties flying the inhabitants to other areas of the Stronghold. A pair of     
+large stone doors open up to empty air. The only way to reach the next level  
+appears to be via one of these dragons. Security here is no joke.             
+
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Players ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Blackwolf           0s    A satyr with black fur and hair.                   
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Locations ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ The Eyrie <TE>                        Gatehouse <GA>                       
+ ═════════════════════════════════════════════════════════════════════════════
+ ════════════════════════════════ hangout/all ════════════════════════════════
+   # | Info                                                            Players
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ County of Scale and Vine ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+  31 |  The Hanging Gardens - Xenuhemach Stronghold ....................... 1
+     |     The Hanging Gardens at Xenuhemach, acting capital of the County 
+  59 |  Goswyn's Hollow ................................................... 1
+     |     A homestead in the Dreaming, carved into the trunk of an incredi
+ 143 |  Veranda - Red Lion Tavern ......................................... -
+     |     A Fixture in the Dreaming since the Accordance War.             
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Black Path of Balor ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ 165 | *Shadow Court Chamber .............................................. -
+     |     The Shadow Court Council chambers.                              
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ The Near Dreaming ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ 141 | *Heart of the Glade - North Star Cavern ............................ -
+     |     A soaring cavern in the Nunnehi Lodge in Central Malibu.        
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ The Silver Path ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ 155 | *The Beaches - La Maison de Sable et de Ciel ....................... -
+     |     The beaches of Land's End are a sight to behold, in more ways th
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+       * = Hidden Hangout
+       +hangouts/type <category> - show all hangouts of a certain category
+       +hangouts/type - show all hangouts separated by category
+ ═════════════════════════════════════════════════════════════════════════════
+ ═══════════ Veranda ‒ Red Lion Tavern ‒ County of Scale and Vine ════════════
+
+                               --Dreaming Desc--                              
+                             ==The Near Dreaming==                            
+                              ==The Silver Path==                             
+
+                In the Dreaming, the Red Lion Tavern's veranda is a wooden    
+deck overlooking rolling fields of green. Marble tables with gold trimming    
+and the pennant of the local ruling sovereign, in the feudal sense, are       
+served by a pair of Boggans, Cillian and Marcus. They both wear matching      
+T-Shirts saying "I'm with Stupid" and an arrow that magically points to the   
+other. Their jovial attitude and friendly demeanour tends to ensure the place 
+is welcoming and hospitable as they, and their. A pair of Trolls, one of whom 
+has a Red Dragon tattoo and is rumored to have once turned into a Dragon to   
+eat a guest who foolishly brought violence to the place, stand watchful guard 
+against threats from both the Dreaming and Autumn alike.                      
+        Though the Red Lion Tavern, has no Balefire, the subtle way it reacts 
+to the group of Grumps who live here implies very much that it is a Freehold  
+and bringing violence here at all is probably a Very Bad Idea.                
+
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Players ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Blackwolf           0s    A satyr with black fur and hair.                   
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Locations ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Trod <TD>                            
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Exits ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Autumn World <AW>                    
+ ═════════════════════════════════════════════════════════════════════════════
+You exit towards Red Lion Tavern.
+ ═══════════════════════ Red Lion Tavern ‒ Silver Lake ═══════════════════════
+
+                               --Dreaming Desc--                              
+                            ==Ambient Banality: 3==                           
+
+                Careful to avoid any attention, the bar has just the faintest 
+trace of Chicanery laced throughout it. The entire back row of four tables is 
+just invisible to mortals and the Cantrip masks any Changelings' comings and  
+goings from it or the Veranda beyond.                                         
+                                                                              
+                           There are +faeviews here.                          
+
+                                -- Real Desc --                               
+                                                                              
+        The bar has been themed to the old world tavern. The red brick wall   
+shows through the thick outdoor plaster-paint in places as an affectation,    
+while woooden panneling on the walls helps to sell the illusion. Rounded      
+windows with old time wooden panels beside them, and two raised murals of     
+people toasting over a harvest. Parasolled tables dot the service floor and   
+customers can be found celebrating the local flavour and drinking home        
+breweed beer. Select customers are offered the house's home brewed mead as    
+well, but it's not listed for sale. Rainbow flags can be seen on the bar and  
+a sign on the back of the wall says "Safe space strictly enforced."           
+
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Players ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Blackwolf           0s    A satyr with black fur and hair.                   
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Locations ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Veranda <VER>                        
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Exits ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Leave <O>                            
+ ═════════════════════════════════════════════════════════════════[ +view ]═══
++MEET/BRING> You sent a +meet request to Alejandro. Note: Moving from this location will invalidate the request.
+ ══════ Alejandro's Quarters ‒ Historic Mansion ‒ Downtown Los Angeles ═══════
+
+                               --Dreaming Desc--                              
+                            ==Ambient Banality: 6==                           
+
+        ( Not set - Default Normal Desc shown )                               
+                                                                              
+        The High Magisters room is exactly what you would expect of it. A     
+room with a small bed, blackout curtains, and the accoutrement's of a         
+practiced sorceror. In one corner there is a modest, but respectable, set of  
+materials from the Chantry's store for whatever experiments Alejandro is      
+working. Between it and the window, there is a pedestal with a book holder    
+and the High Magister's personal Grimoire left open on an incomplete ritual,  
+something indistinguishable.                                                  
+        The wardrobe contains a spread of similar, but not quite identical,   
+charcoal suits and Tremere robes as well as a variety of decade appropriate   
+casual aware from the 1980s through to the current era. One never knows when  
+trends will swing around. Suits, however, are always in style.                
+
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Players ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Blackwolf           7s    A satyr with black fur and hair.                   
+ Alejandro           0s    Palid Latino with a jet black short cropped ponytai
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Exits ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Leave <O>                            
+ ═════════════════════════════════════════════════════════════════════════════
++STOPLIGHT> All Green
++ENCHANT> You have enchanted Alejandro for 1 days.
+ ═════════════════════════════════ Alejandro ═════════════════════════════════
+                               --Dreaming Desc--                              
+
+( Not set - Default Normal Desc shown )
+                                                                              
+        Alejandro Lopez stands comfortably at five foot ten. He is a little   
+on the thin side of healthy in terms of his body weight and his palor is      
+towards the pale, a bookish academic air surrounds him, a vague atmosphere of 
+mystery.                                                                      
+        The charcoal pinstripe suit that he's wearing is immaculately         
+tailored, no expense has been spared on it. Casmere wool, a silk shirt, and   
+tie, a gold tie pin with a glyph on it, a circle encapsulating as square with 
+triangle beside, bound itself in a circle encapsulating a square with a       
+triangle beside. If anything, the word which best describes him is 'groomed'. 
+        His long hair is tied back in a ponytail, tight and neat, bound at    
+the back of the head and at the bottom of the tail, not a hair out of place.  
+His deep brown eyes seldom break eye-contact and, even when he smiles, they   
+seldom twinkle. Here is a man who smiles often but seldom means it.           
+
+ ═════════════════════════════════════════════════════════════════[ +view ]═══
+Look> Alejandro looked at you.
+Look> Alejandro looked at you.
+Alejandro has left.
+ ════════════════ Shadow Court Chamber ‒ Black Path of Balor ═════════════════
+
+                               --Dreaming Desc--                              
+                             ==The Near Dreaming==                            
+                            ==Black Path of Balor==                           
+
+        The Shadow Court Council Chamber is a wide amphitheatre overlooked by 
+three increasingly raised concentric circles of chairs. The disc at the       
+centre is pitch black, constructed of a substance so dark that vantablack     
+pales in comparison. Around the disc there is a circle of golden glyphs;      
+words of power designed solely to hide the chamber from prying eyes.          
+        Against the round wall of the room, there is a series of doors, each  
+leading to different freeholds accross the California, and upon entering each 
+person is automatically wrapped in a Cantrip that masks their true identity,  
+each member of each cell known only to the others in their cell; secrecy      
+shrouds everything here.                                                      
+
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Players ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Blackwolf           0s    A satyr with black fur and hair.                   
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Locations ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Exit <OUT>                           
+ ═════════════════════════════════════════════════════════════════════════════

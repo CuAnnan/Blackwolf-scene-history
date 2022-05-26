@@ -1,0 +1,164 @@
+Logfile from Liberation (Blackwolf)
+Log opened 12/05/2022  -  19:56:02
+
+Connecting to game.liberationmush.site:2020...
+Connected - 34.213.143.253 (ec2-34-213-143-253.us-west-2.compute.amazonaws.com) - 12/05/2022  -  19:56:01
+
+
+--------- New Activity ---------
+   __                      _.++._     _.+"+.                      _.++._
+.+"  `"._      _.+```+._.+'      `'.+'      '.     .+"".+```+._.+'      `'.+'
+         `+._.'      _____ .____              '+.+'
+            .____   +  ___++  _ \      ___   .______.               .__   __.
+        __  +  _ \  | +_   | +_) +    /   \  +      + __    _____   +  \ +  +
+ _     +  + | +_) + |  _+  |    /    /  ^  \ `++  ++`+  +  /  _  \  |   \+  |
++ +    |  | |  _ <  | +___ | +\ \   /  /_\  \  |  |  |  | +  + +  + |  . `  |
+| |    |  | | +_) + +_____++_+ \_\ /  _____  \ |  |  |  | |  + +  | |  +\   |
+| +    |  | +____/                /__/     \__\+__+  |  | +  `+'  + +__+ \__+
+| `+-+.+__+                                          +__+  \_____/
++_____+
+              Liberation MUSH: A World of Darkness 20th Anniversary
+                      Edition-based Role Playing Environment
+                     Set in Modern-Day Los Angeles California
+
+    To create new character     ----------=>   create <player> <password>  
+
+                PLEASE PUT NAMES WITH SPACES IN THEM  IN QUOTES!
+
+    To continue old character   ----------=>   connect <player> <password> 
+
+
+    Portions of the materials are the copyrights and trademarks of Paradox
+    Interactive AB, and are used with permission. All rights reserved.
+    For more information please visit worldofdarkness.com. This is not an
+    official World Of Darkness game.
+Last connect was from 79.97.158.201 on Tue May  3 13:30:37 2022.
+ ════════════════ Shadow Court Chamber ‒ Black Path of Balor ═════════════════
+
+                               --Dreaming Desc--                              
+                             ==The Near Dreaming==                            
+                            ==Black Path of Balor==                           
+
+        The Shadow Court Council Chamber is a wide amphitheatre overlooked by 
+three increasingly raised concentric circles of chairs. The disc at the       
+centre is pitch black, constructed of a substance so dark that vantablack     
+pales in comparison. Around the disc there is a circle of golden glyphs;      
+words of power designed solely to hide the chamber from prying eyes.          
+        Against the round wall of the room, there is a series of doors, each  
+leading to different freeholds accross the California, and upon entering each 
+person is automatically wrapped in a Cantrip that masks their true identity,  
+each member of each cell known only to the others in their cell; secrecy      
+shrouds everything here.                                                      
+
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Players ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Blackwolf           0s    A satyr with black fur and hair.                   
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Locations ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Exit <OUT>                           
+ ═════════════════════════════════════════════════════════════════════════════
+ ════════════════════════════ Blackwolf's +notes ═════════════════════════════
+ Public Private *Approved              |
+ ═════════════════════════════════════════════════════════════════════════════
+
+ ═════════════════════════════════════════════════════════════════════════════
+Blackwolf(#7233P-c~>sO<[t])
+ ═════════════════════════════════ Blackwolf ═════════════════════════════════
+                               --Dreaming Desc--                              
+
+        There is more than a touch of Bedlam about this creature, as though   
+he lives in the Dreaming and ventures into the Autumn only for the most       
+necessary functions. That said, his bearing and posture bespeak a man who     
+could have lead nations to glory.                                             
+        His torso is covered in a suit of fae mail that is pristine, without  
+even the hint of rust or banality on it. A belt of spun gold around his waist 
+carries a sword of the deepest vermillion that screams danger. His legs are   
+unclad, covered in black fur that is thick and maintain his modesty.          
+
+                                -- Real Desc --                               
+
+                                                                              
+                Blackwolf's eyes dart about the place and his general         
+demeanour is a little on the side of madness. He must surely work with        
+animals given the musky scent that hangs upon him and his scruffy appearance  
+more supports the idea more than a little. His short-cut jet-black hair is    
+unbrushed and unkempt, much like the rest of him. And, wait a second, are his 
+eyes golden and goat-like? No, that must be an optical illusion, they're      
+perfectly normal blue. Right? Blue eyes, perfectly normal.                    
+
+ ═════════════════════════════════════════════════════════════════════════════
+Look> Blackwolf looked at you.
+
+ ═════════════════════════════ Blackwolf's Sheet ═════════════════════════════
+ Full Name:     Blackwolf               Sphere:        Changeling            
+ Birthdate:                             Concept:       Shadow Court leader   
+ Heritage:                              Legacy:        Hermit/Beast          
+ Seeming:       Grump                   Splat:         Kithain               
+ Kith:          Satyr                   Type:          Kithain               
+ Court:         Shadow                  House:                                
+ ════════════════════════════════ Attributes ═════════════════════════════════
+        Physical         |         Social          |         Mental          
+ Strength: ........... 2 | Charisma: ........... 4 | Perception: ......... 3 
+ Dexterity: .......... 1 | Manipulation: ....... 4 | Intelligence: ....... 3 
+ Stamina: ............ 3 | Appearance: ......... 1 | Wits: ............... 3 
+ ═════════════════════════════════ Abilities ═════════════════════════════════
+         Talents         |         Skills          |       Knowledges        
+ Alertness: .......... 2 | Animal Ken: ......... 0 | Academics: .......... 0 
+ Athletics: .......... 2 | Crafts: ............. 0 | Bureaucracy: ........ 0 
+ Brawl: .............. 2 | Drive: .............. 0 | Computer: ........... 0 
+ Empathy: ............ 2 | Etiquette: .......... 2 | Enigmas: ............ 2 
+ Expression: ......... 2 | Firearms: ........... 0 | Finance: ............ 0 
+ Intimidation: ....... 0 | Larceny: ............ 0 | Gremayre: ........... 2 
+ Kenning: ............ 3 | Melee: .............. 0 | Investigation: ...... 0 
+ Leadership: ......... 3 | Performance: ........ 3 | Law: ................ 4 
+ Stealth: ............ 0 | Security: ........... 0 | Medicine: ........... 0 
+ Streetwise: ......... 0 | Survival: ........... 0 | Occult: ............. 0 
+ Subterfuge: ......... 0 | Technology: ......... 0 | Politics: ........... 0 
+                         |                         | Science: ............ 0 
+ ════════════════════════════ Secondary Abilities ════════════════════════════
+         Talents         |         Skills          |       Knowledges        
+ Artistry: ........... 0 | Acrobatics: ......... 0 | Area Knowledge: ..... 0 
+ Cooking: ............ 0 | Archery: ............ 0 | Covert Ops: ......... 3 
+ Diplomacy: .......... 0 | Demolitions: ........ 0 | Cryptography: ....... 0 
+ Fortune-Telling: .... 0 | Elusion: ............ 0 | Esoterica: .......... 0 
+ Instruction: ........ 0 | Fencing: ............ 0 | Herbalism: .......... 0 
+ Intrigue: ........... 0 | Gambling: ........... 0 | Media: .............. 0 
+ Intuition: .......... 0 | Martial Arts: ....... 0 | Military Science: ... 2 
+ Scrounging: ......... 0 | Meditation: ......... 0 | Poisons: ............ 0 
+ Seduction: .......... 0 | Networking: ......... 0 | Power-Brokering: .... 0 
+ Style: .............. 0 | Pilot: .............. 0 | Vice: ............... 0 
+ ══════════════════════════════════ Powers ═══════════════════════════════════
+                                     Arts                                     
+ Sovereign: .......... 3   Soothsay: ........... 3   Winter: ............. 2  
+
+                                    Realms                                    
+ Fae: ................ 3   Scene: .............. 3   Time: ............... 3  
+
+ ═══════════ Advantages ═══════════════════ Pools ══════════════ Health ══════
+             Backgrounds           | Banality: ...... 0/3 | Bruised    0 [ ]  
+ Dreamers: ..................... 3 | Blood: .......... 10 | Hurt      -1 [ ]  
+ Resources: .................... 2 | Glamour: ......... 4 | Injured   -1 [ ]  
+               Merits              | Nightmare: ....... 0 | Wounded   -2 [ ]  
+                                   | Willpower: ....... 5 | Mauled    -2 [ ]  
+                Flaws              |                      | Crippled  -5 [ ]  
+                                   |                      | Incap.   -99 [ ]  
+ ═════════════════════════════════════════════════════════════════════════════
++NOTES> Set Note brief(PRIVATE - UNAPPROVED) in category general to:
+
+	Blackwolf does not remember his human seeming's name. He seldom interacts with Mortals, preferring only to interact with Kithain, Gallain, Kinain and Chimera. He views the Autumn World as a distraction from the monumental task ahead of him. The Shadow Court (think Anarchs), of which you are a SECRET member, has been infiltrated by Thallain (think Sabbat). When he says this to people in the Shadow Court, they say "they're just other members", but they don't know and there's no point telling them. There's a Cabal of Thallain called the Black Court that are pulling all of the strings. And anyone in the Shadow Court could be a puppet except him and those he directly shields.
+
+	The Nobility have failed. They're just useless. The Commoners don't know what lies ahead. But he generally tries to say out of Concordian politics except when he has to act to remove a threat to the Shadow Court.
+
+	You are just here to see if there's anyone worth recruiting.
++NOTES> Set Note brief(PRIVATE - UNAPPROVED) in category general to:
+
+	Blackwolf does not remember his human seeming's name. He seldom interacts with Mortals, preferring only to interact with Kithain, Gallain, Kinain and Chimera. He views the Autumn World as a distraction from the monumental task ahead of him. The Shadow Court (think Anarchs), of which you are a SECRET member, has been infiltrated by Thallain (think Sabbat). When he says this to people in the Shadow Court, they say "they're just other members", but they don't know and there's no point telling them. There's a Cabal of Thallain called the Black Court that are pulling all of the strings. And anyone in the Shadow Court could be a puppet except him and those he directly shields.
+
+	The Nobility (think Camarilla) have failed. They're just useless. The Commoners don't know what lies ahead. But he generally tries to say out of Concordian politics except when he has to act to remove a threat to the Shadow Court.
+
+	You are just here to see if there's anyone worth recruiting.
+Your password has been changed by COMMANDS: Councilor-Level Director.
+ /~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\ 
+((                                                                         ))
+ ))                   *** RhostMUSH Disconnected. ***                     ((
+((                                                                         ))
+ \_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/
+  ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~  

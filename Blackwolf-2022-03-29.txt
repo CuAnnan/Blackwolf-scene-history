@@ -1,0 +1,75 @@
+Logfile from Liberation (Blackwolf)
+Log opened 29/03/2022  -  19:15:55
+
+Connecting to game.liberationmush.site:2020...
+Connected - 34.213.143.253 (ec2-34-213-143-253.us-west-2.compute.amazonaws.com) - 29/03/2022  -  19:15:54
+
+
+   __                      _.++._     _.+"+.                      _.++._
+.+"  `"._      _.+```+._.+'      `'.+'      '.     .+"".+```+._.+'      `'.+'
+         `+._.'      _____ .____              '+.+'
+            .____   +  ___++  _ \      ___   .______.               .__   __.
+        __  +  _ \  | +_   | +_) +    /   \  +      + __    _____   +  \ +  +
+ _     +  + | +_) + |  _+  |    /    /  ^  \ `++  ++`+  +  /  _  \  |   \+  |
++ +    |  | |  _ <  | +___ | +\ \   /  /_\  \  |  |  |  | +  + +  + |  . `  |
+| |    |  | | +_) + +_____++_+ \_\ /  _____  \ |  |  |  | |  + +  | |  +\   |
+| +    |  | +____/                /__/     \__\+__+  |  | +  `+'  + +__+ \__+
+| `+-+.+__+                                          +__+  \_____/
++_____+
+              Liberation MUSH: A World of Darkness 20th Anniversary
+                      Edition-based Role Playing Environment
+                     Set in Modern-Day Los Angeles California
+
+    To create new character     ----------=>   create <player> <password>  
+
+                PLEASE PUT NAMES WITH SPACES IN THEM  IN QUOTES!
+
+    To continue old character   ----------=>   connect <player> <password> 
+
+
+    Portions of the materials are the copyrights and trademarks of Paradox
+    Interactive AB, and are used with permission. All rights reserved.
+    For more information please visit worldofdarkness.com. This is not an
+    official World Of Darkness game.
+Last connect was from 79.97.158.201 on Mon Mar 28 11:57:58 2022.
+ ════════════════ Shadow Court Chamber ‒ Black Path of Balor ═════════════════
+
+                               --Dreaming Desc--                              
+                             ==The Near Dreaming==                            
+                            ==Black Path of Balor==                           
+
+        The Shadow Court Council Chamber is a wide amphitheatre overlooked by 
+three increasingly raised concentric circles of chairs. The disc at the       
+centre is pitch black, constructed of a substance so dark that vantablack     
+pales in comparison. Around the disc there is a circle of golden glyphs;      
+words of power designed solely to hide the chamber from prying eyes.          
+        Against the round wall of the room, there is a series of doors, each  
+leading to different freeholds accross the California, and upon entering each 
+person is automatically wrapped in a Cantrip that masks their true identity,  
+each member of each cell known only to the others in their cell; secrecy      
+shrouds everything here.                                                      
+
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Players ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Blackwolf           0s    A satyr with black fur and hair.                   
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Locations ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Exit <OUT>                           
+ ═════════════════════════════════════════════════════════════════════════════
+ ═══════════════════════════════ hangout/type ════════════════════════════════
+   # | Info                                                            Players
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Faction ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+  31 |  The Hanging Gardens - Xenuhemach Stronghold ....................... -
+     |     The Hanging Gardens at Xenuhemach, acting capital of the County 
+  59 |  Goswyn's Hollow ................................................... -
+     |     A homestead in the Dreaming, carved into the trunk of an incredi
+ 143 |  Veranda - Red Lion Tavern ......................................... -
+     |     A Fixture in the Dreaming since the Accordance War.             
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+       * = Hidden Hangout
+       +hangouts/all - show all hangouts
+ ═════════════════════════════════════════════════════════════════════════════
+ /~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\ 
+((                                                                         ))
+ ))                   *** RhostMUSH Disconnected. ***                     ((
+((                                                                         ))
+ \_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/
+  ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~  

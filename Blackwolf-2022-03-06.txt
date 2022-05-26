@@ -1,0 +1,82 @@
+Logfile from Liberation (Blackwolf)
+Log opened 06/03/2022  -  15:28:00
+
+Connecting to game.liberationmush.site:2020...
+Connected - 34.213.143.253 (ec2-34-213-143-253.us-west-2.compute.amazonaws.com) - 06/03/2022  -  15:27:58
+
+
+   __                      _.++._     _.+"+.                      _.++._
+.+"  `"._      _.+```+._.+'      `'.+'      '.     .+"".+```+._.+'      `'.+'
+         `+._.'      _____ .____              '+.+'
+            .____   +  ___++  _ \      ___   .______.               .__   __.
+        __  +  _ \  | +_   | +_) +    /   \  +      + __    _____   +  \ +  +
+ _     +  + | +_) + |  _+  |    /    /  ^  \ `++  ++`+  +  /  _  \  |   \+  |
++ +    |  | |  _ <  | +___ | +\ \   /  /_\  \  |  |  |  | +  + +  + |  . `  |
+| |    |  | | +_) + +_____++_+ \_\ /  _____  \ |  |  |  | |  + +  | |  +\   |
+| +    |  | +____/                /__/     \__\+__+  |  | +  `+'  + +__+ \__+
+| `+-+.+__+                                          +__+  \_____/
++_____+
+              Liberation MUSH: A World of Darkness 20th Anniversary
+                      Edition-based Role Playing Environment
+                     Set in Modern-Day Los Angeles California
+
+    To create new character     ----------=>   create <player> <password>  
+
+                PLEASE PUT NAMES WITH SPACES IN THEM  IN QUOTES!
+
+    To continue old character   ----------=>   connect <player> <password> 
+
+
+    Portions of the materials are the copyrights and trademarks of Paradox
+    Interactive AB, and are used with permission. All rights reserved.
+    For more information please visit worldofdarkness.com. This is not an
+    official World Of Darkness game.
+Last connect was from 79.97.158.201 on Sat Feb 19 12:48:29 2022.
+ ════════════════ Shadow Court Chamber ‒ Black Path of Balor ═════════════════
+
+                               --Dreaming Desc--                              
+                             ==The Near Dreaming==                            
+                            ==Black Path of Balor==                           
+
+        The Shadow Court Council Chamber is a wide amphitheatre overlooked by 
+three increasingly raised concentric circles of chairs. The disc at the       
+centre is pitch black, constructed of a substance so dark that vantablack     
+pales in comparison. Around the disc there is a circle of golden glyphs;      
+words of power designed solely to hide the chamber from prying eyes.          
+        Against the round wall of the room, there is a series of doors, each  
+leading to different freeholds accross the California, and upon entering each 
+person is automatically wrapped in a Cantrip that masks their true identity,  
+each member of each cell known only to the others in their cell; secrecy      
+shrouds everything here.                                                      
+
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Players ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Blackwolf           0s    A satyr with black fur and hair.                   
+ ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Locations ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+ Exit <OUT>                           
+ ═════════════════════════════════════════════════════════════════════════════
+
+@MAIL> You have 1 UNREAD MAIL!
+
+---------------------------  MAIL: Folder Current  ---------------------------
+[N-------]   1 (1057)   From: Leith           Sub:  Updates from Scale and Vine
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Message #: 1  
+Status: NEW         From: Leith            
+Date/Time: Thu Mar  3 16:01:01 2022        Size: 1057 Bytes
+Subject: Updates from Scale and Vine
+------------------------------------------------------------------------------
+	
+Comrade, 
+
+I'm writing to send what little information I've been able to shake loose in the intervening time since our meeting. I've contacted the Thallain you spoke about, but have yet to receive messages back, and I'm concerned that they may have been discovered already. Likewise, the Baroness Crow and her pooka protege voiced significant suspicion of the Balor baron at the recent meeting to discuss the Nightmare Chimera invasion. Given the Baroness's combat abilities and that she seems to have largely been the one investigating our incursions, I would suggest the Baron be given a heads-up. I am told that Count Hawthorne trusts him absolutely, and Baron Thierry finds him too simple to be a threat, but the Crow woman does not seem to be one to consider others' opinions over her own. She seems to be a considerable obstacle to our plan, from what I understand, and I am working where I can to sow seeds of discord. 
+
+On other fronts, the work continues. These people are tight-lipped, but I'm determined. I'll write again when I have more.
+------------------------------------------------------------------------------
+Mail: Done
+ /~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\=/~\ 
+((                                                                         ))
+ ))                   *** RhostMUSH Disconnected. ***                     ((
+((                                                                         ))
+ \_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/=\_/
+  ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~  
